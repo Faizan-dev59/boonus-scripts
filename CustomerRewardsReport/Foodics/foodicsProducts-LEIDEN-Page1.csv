@@ -1,0 +1,51 @@
+ID,SKU,Barcode,Name,Localized Name,Description,Localized Description,Image,Is Active,Is Stock Product,Is Non-Revenue,Is Ready,Pricing Method,Selling Method,Costing Method,Preparation Time,Price,Cost,Calories,Walking Minutes to Burn Calories,Is High Salt,Created At,Updated At,Deleted At
+9bd61105-426c-4405-a430-34345553a1aa,sk-0001,,لاتيه,,,,,true,true,false,true,1,1,2,,16,,,,false,2024-04-18 10:45:08,2024-04-18 11:28:41,2024-04-18 11:28:41
+9bd61194-7eed-4ff3-bb1b-76783ad560f5,sk-0002,,ليدن,,,,,true,false,false,true,1,1,2,,18,,,,false,2024-04-18 10:46:42,2024-04-18 11:08:09,2024-04-18 11:08:09
+9bd616b1-9c89-40f7-bc36-0216c0251f2f,sk-0003,,اثيوبي,,,,,true,false,false,true,1,1,2,,15,,,,false,2024-04-18 11:01:00,2024-04-18 11:28:41,2024-04-18 11:28:41
+9bd61749-703d-4fa8-bf32-7795efd6df8b,sk-0004,,كورتادو,,,,,true,false,false,true,1,1,2,,14,,,,false,2024-04-18 11:02:39,2024-04-18 11:28:41,2024-04-18 11:28:41
+9bd617ae-3271-4b75-90aa-4266cdb4fbc6,sk-0005,,فلات وايت,,,,,true,false,false,true,1,1,2,,15,,,,false,2024-04-18 11:03:45,2024-04-18 11:28:41,2024-04-18 11:28:41
+9bd617ea-3baa-49c2-be4b-65d868165134,sk-0006,,كابتشينو,,,,,true,false,false,true,1,1,2,,16,,,,false,2024-04-18 11:04:25,2024-04-18 11:28:41,2024-04-18 11:28:41
+9bd6186c-8227-44d1-b93d-c722944ae3e8,sk-0007,,ليدن لاتيه,,,,,true,false,false,true,1,1,2,,18,,,,false,2024-04-18 11:05:50,2024-04-18 11:28:41,2024-04-18 11:28:41
+9bd61ac0-2038-47b0-85ce-d7b0c516b53e,sk-0008,,كولمبي,,,,,true,false,false,true,1,1,2,,19,,,,false,2024-04-18 11:12:21,2024-04-18 11:28:41,2024-04-18 11:28:41
+9bd61af0-2b1c-4ac9-8db4-8ca19968a0ab,sk-0009,,اثيوبي,,,,,true,false,false,true,1,1,2,,20,,,,false,2024-04-18 11:12:52,2024-04-18 11:28:41,2024-04-18 11:28:41
+9bd61baa-29d3-496c-9ac3-f6cb819e17fa,sk-0010,,مكسيكي,,,,,true,false,false,true,1,1,2,,22,,,,false,2024-04-18 11:14:54,2024-04-18 11:28:41,2024-04-18 11:28:41
+9bd61ccd-6436-4a0a-8846-84b2bc6e0f84,sk-0011,,ليدن لاتيه,,,,,true,false,false,true,1,1,2,,22,,,,false,2024-04-18 11:18:05,2024-04-18 11:28:41,2024-04-18 11:28:41
+9bd61d2c-4156-4c8c-944c-fe431563c715,sk-0012,,لاتيه( بارد),,,,,true,false,false,true,1,1,2,,22,,,,false,2024-04-18 11:19:07,2024-04-18 11:29:34,2024-04-18 11:29:34
+9bd6201e-6808-4944-9120-bccb01191891,sk-0013,,V60 Ethiopian,,,,,true,false,false,true,1,1,2,,20,,,,false,2024-04-18 11:27:21,2024-04-18 11:44:00,2024-04-18 11:44:00
+9bd62521-c37b-4940-be95-faf95f6dd636,sk-0014,,V60 Colombia HOT,,,,,true,false,false,true,1,1,2,,18,,,,false,2024-04-18 11:41:22,2025-01-14 21:53:04,
+9bd6259c-8ba9-422d-b70d-25835ccd1cdb,sk-0015,,V60 mexico,,,,,false,false,false,true,1,1,2,,20,,,,false,2024-04-18 11:42:43,2024-10-05 19:02:41,
+9bd62667-47c4-48e4-bd5a-fe430aba273f,sk-0016,,V60 Ethiopian HOT,,,,,true,false,false,true,1,1,2,,19,,,,false,2024-04-18 11:44:56,2025-01-14 21:52:39,
+9bd6271a-48fe-4cae-a1d9-58fdab8d4060,sk-0017,,cheese cake,,,,,true,false,false,true,1,1,2,,26,,,,false,2024-04-18 11:46:53,2025-01-14 17:16:51,
+9bd6276c-31b8-487c-9cde-60383b3791c6,sk-0018,,Tiramisu,,,,,true,false,false,true,1,1,2,,26,,,,false,2024-04-18 11:47:47,2025-01-14 17:16:37,
+9bd62807-1b29-48f4-b572-f772683c949e,sk-0019,,Melfi fruits,,,,,true,false,false,true,1,1,2,,28,,,,false,2024-04-18 11:49:28,2025-01-13 21:35:04,
+9bd6287e-f4ae-4616-9930-9ea7b27cf9b2,sk-0020,,Melfi rolls,,,,,true,false,false,true,1,1,2,,25,,,,false,2024-04-18 11:50:47,2025-01-14 17:16:19,
+9bd62abe-2d90-460e-b357-a19c86970b6c,sk-0021,,Water,,,,,true,false,false,true,1,1,2,,5,,,,false,2024-04-18 11:57:04,2024-04-18 12:07:50,2024-04-18 12:07:50
+9bd62c2f-3cf9-48a9-8de1-953967010367,sk-0022,,Leiden c,,,,,true,false,false,true,1,1,2,,22,,,,false,2024-04-18 12:01:05,2025-01-14 21:57:59,
+9bd62c7d-02f0-4691-8c44-7e1b24a32036,sk-0023,,Latte c,,,,,true,false,false,true,1,1,2,,17,,,,false,2024-04-18 12:01:56,2025-01-14 21:58:11,
+9bd62d0e-2991-4751-aaad-8c186b44721c,sk-0024,,Water soda,,,,,true,false,false,true,1,1,2,,5,,,,false,2024-04-18 12:03:32,2024-04-18 12:06:56,2024-04-18 12:06:56
+9bd62f9a-651b-4e63-b641-4c9b86a01e1a,sk-0025,,Cortado,,,,,true,false,false,true,1,1,2,,14,,,,false,2024-04-18 12:10:39,2025-01-14 22:02:02,
+9bd62fdb-2f76-406e-b55c-9b221bc0a760,sk-0026,,Flat white,,,,,true,false,false,true,1,1,2,,15,,,,false,2024-04-18 12:11:22,2025-01-13 21:22:13,
+9bd6301e-9b3e-4b0c-b144-822f3d7cd88c,sk-0027,,Latte,,,,,true,false,false,true,1,1,2,,16,,,,false,2024-04-18 12:12:06,2025-01-13 21:19:59,
+9bd63063-0bf5-4175-a562-0cd3099c91aa,sk-0028,,Cappuccino,,,,,true,false,false,true,1,1,2,,16,,,,false,2024-04-18 12:12:51,2025-01-13 21:19:04,
+9bd630bc-b081-4a77-b5b1-ab0acb2460d0,sk-0029,,Leiden latte,,,,,true,false,false,true,1,1,2,,18,,,,false,2024-04-18 12:13:49,2025-01-14 22:01:20,
+9bd631e6-1b17-41fb-b13a-bfba09a68333,sk-0030,,V60 c Ethiopian,,,,,true,false,false,true,1,1,2,,20,,,,false,2024-04-18 12:17:04,2025-01-14 22:15:42,
+9bd63251-fbd0-48df-ae54-f9b77f131ca6,sk-0031,,V60 c mexico,,,,,false,false,false,true,1,1,2,,22,,,,false,2024-04-18 12:18:15,2024-10-05 19:03:35,
+9bd632d9-5463-4f70-b29f-9918bcfa9191,sk-0032,,V60 colombia,,,,,true,false,false,true,1,1,2,,19,,,,false,2024-04-18 12:19:44,2024-04-18 15:24:35,2024-04-18 15:24:35
+9bd633f9-bbca-4234-b6bf-8c2d2b0d2bed,sk-0033,,Matcha,,,,,true,false,false,true,1,1,2,,23,,,,false,2024-04-18 12:22:53,2025-01-14 21:58:28,
+9bd6346c-39c0-4e82-a0f1-8b13de0e2d06,sk-0034,,Karkidih,,,,,true,false,false,true,1,1,2,,21,,,,false,2024-04-18 12:24:08,2025-01-14 21:55:41,
+9bd634df-c03e-4348-a670-5dbb21beb719,sk-0035,,Ice tea,,,,,true,false,false,true,1,1,2,,20,,,,false,2024-04-18 12:25:23,2025-01-14 21:55:53,
+9bd63503-dbff-4cee-ad5e-45bba01263f0,sk-0036,,Water,,,,,true,false,false,true,1,1,2,,4,,,,false,2024-04-18 12:25:47,2025-01-13 21:06:48,
+9bd6352b-a7d5-41ba-88e7-e8f0975f2e53,sk-0037,,Water soda,,,,,true,false,false,true,1,1,2,,5,,,,false,2024-04-18 12:26:13,2025-01-13 21:06:16,
+9bd635fe-fa0f-4038-8427-9120505d578e,sk-0038,,Ethiopian,,,,,true,false,false,true,1,1,2,,1,,,,false,2024-04-18 12:28:32,2024-04-18 15:29:46,2024-04-18 15:29:46
+9bd667f3-aec3-42f0-b29f-23a5ea67d90b,sk-0039,,Espresso Ethiopian,,,,,true,false,false,true,1,1,2,,15,,,,false,2024-04-18 14:48:13,2025-01-14 22:14:15,
+9bd674e1-d407-4893-b9ff-2a810115fa5c,sk-0040,,V60 c Colombian,,,,,true,false,false,true,1,1,2,,19,,,,false,2024-04-18 15:24:22,2025-01-14 22:15:26,
+9bd675a8-7e37-4296-a466-943333271a1d,sk-0041,,Ethiopian beans,,,,,true,false,false,true,1,1,2,,1,,,,false,2024-04-18 15:26:32,2025-01-13 21:02:20,
+9bd67617-5c2e-42e7-ace7-405fc1f59138,sk-0042,,Extra Leiden milk,,,,,true,false,false,true,1,1,2,,1,,,,false,2024-04-18 15:27:45,2025-01-13 21:01:42,
+9bd6a51b-e7c4-48b9-9b21-a10d0498c5ed,sk-0043,,Amrecano c,,,,,true,false,false,true,1,1,2,,15,,,,false,2024-04-18 17:39:13,2025-01-14 21:43:19,
+9bd71613-3a63-4b46-afdd-0ef8e7af6dbe,sk-0044,,Amrecano hot,,,,,true,false,false,true,1,1,2,,14,,,,false,2024-04-18 22:55:06,2025-01-14 21:43:30,
+9bfa46df-200c-49bd-8294-957ae52fbfce,sk-0045,,Ice espresso ethiopia,,,,,true,false,false,true,1,1,2,,15,,,,false,2024-05-06 10:45:31,2025-01-13 20:56:40,
+9bfa474e-6b6e-46a2-8f07-809c8e2c34a2,sk-0046,,Ice flat white,,,,,true,false,false,true,1,1,2,,16,,,,false,2024-05-06 10:46:44,2025-01-14 21:56:13,
+9bfea7ca-9f8e-4c2d-9869-f9d7656da158,sk-0047,,Eclear raspbarry,,,,,false,false,false,true,1,1,2,,21,,,,false,2024-05-08 14:59:50,2024-10-05 19:05:42,
+9c1093e9-3760-428a-b5c9-bae0878f399d,sk-0048,,Lemon cake,,,,,false,false,false,true,1,1,2,,15,,,,false,2024-05-17 12:49:09,2024-10-05 19:05:26,
+9c1d3934-735c-4be4-b817-f29189591cca,sk-0049,,(cheesecake (madrid,,,,,true,false,false,true,1,1,2,,27,,,,false,2024-05-23 19:41:17,2025-01-30 17:23:28,
+9c233598-9ee4-488a-8c6e-a7da14fd612b,sk-0050,,C salvador,,,,,false,false,false,true,1,1,2,,20,,,,false,2024-05-26 19:06:09,2024-10-05 19:04:48,

@@ -1,0 +1,5025 @@
+{
+    "socials": {
+      "instagram": "instagram.com/essocoffeeksa",
+      "snapchat": "snapchat.com/essocoffee",
+      "twitter": "twitter.com/essocoffeeksa",
+      "facebook": null
+    },
+    "live": true,
+    "catalogue": "",
+    "country": "SA",
+    "covers": [],
+    "keyWords": [],
+    "arabicKeyWords": [],
+    "loyaltyLive": true,
+    "supportEmail": "info@essocoffee.com",
+    "deleted": false,
+    "isOnboardingComplete": true,
+    "sendWelcomeMsg": false,
+    "branchesLimit": 100,
+    "pushNotificationLimit": 250000,
+    "pushNotificationUsage": 17408,
+    "memberEnrollmentUsage": 0,
+    "smsNotificationUsage": 0,
+    "pushNotificationsBalance": 0,
+    "plan": "ENTERPRISE",
+    "name": "ESSO Coffee",
+    "arabicName": "إيسو كوفي",
+    "category": "cafes",
+    "applicationKeys": [
+      {
+        "_id": {
+          "$oid": "65c9d31d041c07001d996065"
+        },
+        "apiKey": "hRL5YOssXRaDZ4CSPqrkKBzSvis-ZgbpXEVZ7OW7",
+        "notes": "FOODICS",
+        "created_at": {
+          "$date": "2024-02-12T08:13:17.668Z"
+        },
+        "updated_at": {
+          "$date": "2024-02-12T08:13:17.668Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65c9d37a041c07001d996f01"
+        },
+        "apiKey": "YbSfzfoW7un4AK2tFc4bQoD5fbyfr1st-O6t8Tao",
+        "notes": "FOODICS",
+        "created_at": {
+          "$date": "2024-02-12T08:14:50.255Z"
+        },
+        "updated_at": {
+          "$date": "2024-02-12T08:14:50.255Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65c9d405041c07001d9996dd"
+        },
+        "apiKey": "QP6Zl5BheEoWTvjM8rvAalkYCitfXBxfNcKk8DSs",
+        "notes": "FOODICS",
+        "created_at": {
+          "$date": "2024-02-12T08:17:09.219Z"
+        },
+        "updated_at": {
+          "$date": "2024-02-12T08:17:09.219Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65c9d473041c07001d99b2cf"
+        },
+        "apiKey": "6GkA-hRE6WVimbrUj-hXMaLacRpgC9hIeTWvhtSq",
+        "notes": "FOODICS",
+        "created_at": {
+          "$date": "2024-02-12T08:18:59.344Z"
+        },
+        "updated_at": {
+          "$date": "2024-02-12T08:18:59.344Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "674d52510585f1001d0c03a9"
+        },
+        "apiKey": "F31nR9HTrLgC9BwbIbutF_dc9elMsikpfCXD1E0G",
+        "notes": "FOODICS",
+        "created_at": {
+          "$date": "2024-12-02T06:23:13.915Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-02T06:23:13.915Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "674d536c0585f1001d0c48d0"
+        },
+        "apiKey": "84MZKa9OAGs4ectSnGMupYiaG3gw_wriC7Hubg8n",
+        "notes": "FOODICS",
+        "created_at": {
+          "$date": "2024-12-02T06:27:56.899Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-02T06:27:56.899Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "674d57080585f1001d0d2704"
+        },
+        "apiKey": "sCLjfDuflE2p992jGGSjBZE9sF5VzwjhysWWSaAz",
+        "notes": "FOODICS",
+        "created_at": {
+          "$date": "2024-12-02T06:43:20.102Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-02T06:43:20.102Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "674d591e0585f1001d0e535a"
+        },
+        "apiKey": "2XwgFSPWUg_VIFanFEti1TDPQ0NqcEtotV7l93GZ",
+        "notes": "FOODICS",
+        "created_at": {
+          "$date": "2024-12-02T06:52:14.315Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-02T06:52:14.315Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "674d59460585f1001d0e6cff"
+        },
+        "apiKey": "cu4PKQp029KhOEuVb-A3iTi6E1kGGT09Ss6vF1KY",
+        "notes": "FOODICS",
+        "created_at": {
+          "$date": "2024-12-02T06:52:55.007Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-02T06:52:55.007Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "674d59790585f1001d0e985a"
+        },
+        "apiKey": "BNdSgh6COHcka5Ja4O_nCyijNjGCU7JzmFZcKkRV",
+        "notes": "FOODICS",
+        "created_at": {
+          "$date": "2024-12-02T06:53:45.126Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-02T06:53:45.126Z"
+        }
+      }
+    ],
+    "team": [
+      {
+        "_id": {
+          "$oid": "65c9d1fb041c07001d992180"
+        },
+        "userId": {
+          "$oid": "65c9d1fb041c07001d99217f"
+        },
+        "role": "OWNER",
+        "email": "essocoffe@gmail.com",
+        "created_at": {
+          "$date": "2024-02-12T08:08:27.154Z"
+        },
+        "updated_at": {
+          "$date": "2024-02-12T08:08:27.154Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65cc46d6da96860029c60ee0"
+        },
+        "userId": {
+          "$oid": "65cc46d6da96860029c60ede"
+        },
+        "email": "Alscoon_memo@hotmail.com",
+        "branchId": {
+          "$oid": "65c9d578041c07001d99f1a0"
+        },
+        "role": "CASHIER",
+        "updated_at": {
+          "$date": "2024-02-14T04:51:34.936Z"
+        },
+        "created_at": {
+          "$date": "2024-02-14T04:51:34.936Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66829e7679c1a200290367f0"
+        },
+        "userId": {
+          "$oid": "66829e7679c1a200290367ee"
+        },
+        "email": "dtalsolla@icloud.com",
+        "branchId": {
+          "$oid": "65c9d578041c07001d99f2bd"
+        },
+        "role": "CASHIER",
+        "updated_at": {
+          "$date": "2024-12-24T10:39:10.183Z"
+        },
+        "created_at": {
+          "$date": "2024-07-01T12:17:58.829Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "6682a2f179c1a20029039434"
+        },
+        "userId": {
+          "$oid": "6682a2f179c1a20029039431"
+        },
+        "email": "Dtalwazirya@icloud.com",
+        "branchId": {
+          "$oid": "65c9d578041c07001d99f29f"
+        },
+        "role": "CASHIER",
+        "updated_at": {
+          "$date": "2024-12-24T09:46:05.501Z"
+        },
+        "created_at": {
+          "$date": "2024-07-01T12:37:05.506Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "6682a48879c1a2002903a1ee"
+        },
+        "userId": {
+          "$oid": "6682a48879c1a2002903a1ec"
+        },
+        "email": "Dtsaud@iCloud.com",
+        "branchId": {
+          "$oid": "65c9d578041c07001d99f245"
+        },
+        "role": "CASHIER",
+        "updated_at": {
+          "$date": "2024-12-24T10:41:32.193Z"
+        },
+        "created_at": {
+          "$date": "2024-07-01T12:43:52.722Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "6682bb5079c1a2002904b7b4"
+        },
+        "userId": {
+          "$oid": "6682bb5079c1a2002904b7b2"
+        },
+        "email": "Alolyaa@icloud.com",
+        "branchId": {
+          "$oid": "65c9d578041c07001d99f218"
+        },
+        "role": "CASHIER",
+        "updated_at": {
+          "$date": "2024-12-24T10:42:09.452Z"
+        },
+        "created_at": {
+          "$date": "2024-07-01T14:21:04.218Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "6682d3f979c1a20029061fe1"
+        },
+        "userId": {
+          "$oid": "6682d3f979c1a20029061fdf"
+        },
+        "email": "Dtalsalhya@icloud.com",
+        "branchId": {
+          "$oid": "65c9d578041c07001d99f290"
+        },
+        "role": "CASHIER",
+        "updated_at": {
+          "$date": "2024-12-24T10:43:54.241Z"
+        },
+        "created_at": {
+          "$date": "2024-07-01T16:06:17.308Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "6683c07b79c1a20029112b40"
+        },
+        "userId": {
+          "$oid": "6683c07b79c1a20029112b3c"
+        },
+        "email": "Dtalbasateen@icloud.com",
+        "branchId": {
+          "$oid": "65c9d578041c07001d99f209"
+        },
+        "role": "CASHIER",
+        "updated_at": {
+          "$date": "2024-12-24T10:44:23.131Z"
+        },
+        "created_at": {
+          "$date": "2024-07-02T08:55:23.205Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66868a6579c1a20029357eeb"
+        },
+        "userId": {
+          "$oid": "66868a6579c1a20029357ee9"
+        },
+        "email": "Dtshbkalmatar@icloud.com",
+        "branchId": {
+          "$oid": "65c9d578041c07001d99f2ae"
+        },
+        "role": "CASHIER",
+        "updated_at": {
+          "$date": "2024-12-24T10:45:29.943Z"
+        },
+        "created_at": {
+          "$date": "2024-07-04T11:41:25.917Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "6686a7b479c1a2002936edbb"
+        },
+        "userId": {
+          "$oid": "6686a7b479c1a2002936edb9"
+        },
+        "email": "Dtalragamah@icloud.com",
+        "branchId": {
+          "$oid": "65c9d578041c07001d99f281"
+        },
+        "role": "CASHIER",
+        "updated_at": {
+          "$date": "2024-12-24T10:46:22.031Z"
+        },
+        "created_at": {
+          "$date": "2024-07-04T13:46:28.010Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "668bfcef79c1a2002978b7eb"
+        },
+        "userId": {
+          "$oid": "668bfcef79c1a2002978b7e9"
+        },
+        "email": "Dtabdalmajeed@icloud.com",
+        "branchId": {
+          "$oid": "65c9d578041c07001d99f254"
+        },
+        "role": "CASHIER",
+        "updated_at": {
+          "$date": "2024-12-24T10:47:26.225Z"
+        },
+        "created_at": {
+          "$date": "2024-07-08T14:51:27.313Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66a0ca8879c1a200297a14c1"
+        },
+        "userId": {
+          "$oid": "66a0ca8879c1a200297a14bf"
+        },
+        "email": "dtarrawdah@icloud.com",
+        "branchId": {
+          "$oid": "65c9d578041c07001d99f2ea"
+        },
+        "role": "CASHIER",
+        "updated_at": {
+          "$date": "2024-07-24T09:34:00.603Z"
+        },
+        "created_at": {
+          "$date": "2024-07-24T09:34:00.603Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66a0e02879c1a200297b0dde"
+        },
+        "userId": {
+          "$oid": "66a0e02879c1a200297b0ddc"
+        },
+        "email": "dtalsafa@icloud.com",
+        "branchId": {
+          "$oid": "65c9d578041c07001d99f2f9"
+        },
+        "role": "CASHIER",
+        "updated_at": {
+          "$date": "2024-07-24T11:06:16.030Z"
+        },
+        "created_at": {
+          "$date": "2024-07-24T11:06:16.030Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66a10a0c79c1a200297cc6f2"
+        },
+        "userId": {
+          "$oid": "66a10a0c79c1a200297cc6f0"
+        },
+        "email": "essocoffee@icloud.com",
+        "branchId": {
+          "$oid": "65c9d578041c07001d99f326"
+        },
+        "role": "CASHIER",
+        "updated_at": {
+          "$date": "2024-07-24T14:05:00.828Z"
+        },
+        "created_at": {
+          "$date": "2024-07-24T14:05:00.828Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66a10b7679c1a200297cdc2e"
+        },
+        "userId": {
+          "$oid": "66a10b7679c1a200297cdc2c"
+        },
+        "email": "tbrehely@icloud.com",
+        "branchId": {
+          "$oid": "65c9d578041c07001d99f335"
+        },
+        "role": "CASHIER",
+        "updated_at": {
+          "$date": "2024-07-24T14:11:02.812Z"
+        },
+        "created_at": {
+          "$date": "2024-07-24T14:11:02.812Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66a1142a79c1a200297d66a8"
+        },
+        "userId": {
+          "$oid": "66a1142a79c1a200297d66a6"
+        },
+        "email": "sari12aq@outlook.com",
+        "branchId": {
+          "$oid": "6620f54cff2de0001cb3dfb4"
+        },
+        "role": "CASHIER",
+        "updated_at": {
+          "$date": "2024-07-24T14:48:10.823Z"
+        },
+        "created_at": {
+          "$date": "2024-07-24T14:48:10.823Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66a1364d79c1a200297f99ae"
+        },
+        "userId": {
+          "$oid": "66a1364d79c1a200297f99ac"
+        },
+        "email": "dtassalamah@icloud.com",
+        "branchId": {
+          "$oid": "65c9d578041c07001d99f2db"
+        },
+        "role": "CASHIER",
+        "updated_at": {
+          "$date": "2024-07-24T17:13:49.818Z"
+        },
+        "created_at": {
+          "$date": "2024-07-24T17:13:49.818Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66a7d16979c1a20029d43284"
+        },
+        "userId": {
+          "$oid": "66a7d16979c1a20029d43282"
+        },
+        "email": "tbbawadi@icloud.com",
+        "branchId": {
+          "$oid": "6620f54cff2de0001cb3dfa5"
+        },
+        "role": "CASHIER",
+        "updated_at": {
+          "$date": "2024-07-29T17:29:13.624Z"
+        },
+        "created_at": {
+          "$date": "2024-07-29T17:29:13.624Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "670901b779c1a200291ff9c3"
+        },
+        "userId": {
+          "$oid": "670901b779c1a200291ff9c1"
+        },
+        "email": "redsea@essocoffee.com",
+        "branchId": {
+          "$oid": "65c9d578041c07001d99f317"
+        },
+        "role": "CASHIER",
+        "updated_at": {
+          "$date": "2024-10-11T10:45:11.804Z"
+        },
+        "created_at": {
+          "$date": "2024-10-11T10:45:11.804Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "6730e98c79c1a20029a512b2"
+        },
+        "userId": {
+          "$oid": "6730e98c79c1a20029a512b0"
+        },
+        "email": "Dtaljamal@icloud.com",
+        "branchId": {
+          "$oid": "65c9d578041c07001d99f227"
+        },
+        "role": "CASHIER",
+        "updated_at": {
+          "$date": "2024-12-24T10:56:44.936Z"
+        },
+        "created_at": {
+          "$date": "2024-11-10T17:12:44.016Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "676a955523d81f001d0bd74b"
+        },
+        "userId": {
+          "$oid": "676a955523d81f001d0bd749"
+        },
+        "email": "uwalkjed@essocoffee.com",
+        "branchId": {
+          "$oid": "65c9d578041c07001d99f344"
+        },
+        "role": "CASHIER",
+        "updated_at": {
+          "$date": "2024-12-24T11:04:53.660Z"
+        },
+        "created_at": {
+          "$date": "2024-12-24T11:04:53.660Z"
+        }
+      }
+    ],
+    "branches": [
+      {
+        "sourceId": "915c956b-fcd6-4623-b6d5-0953b77037f1",
+        "reference": "B01",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f1a0"
+        },
+        "name": "Al Naseem Branch",
+        "arabicName": "إيسو كوفي حي النسيم",
+        "lat": "21.5111976939167",
+        "lng": "39.22702252864838",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1a1"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1a2"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1a3"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1a4"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1a5"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1a6"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1a7"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1a8"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1a9"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1aa"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1ab"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1ac"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1ad"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1ae"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.051Z"
+        },
+        "updated_at": {
+          "$date": "2025-01-07T13:43:57.002Z"
+        },
+        "phone": {
+          "number": "555042954",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "9321d3ea-b597-42d6-a861-3ed32434b9b5",
+        "reference": "B02",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f1af"
+        },
+        "name": "ESSO Coffee Atelier La Vie Mall",
+        "arabicName": "إيسو كوفي اتيلية لافي مول",
+        "lat": "21.61288444358876",
+        "lng": "39.11798603832722",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1b0"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1b1"
+                },
+                "from": "06:00",
+                "to": "04:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1b2"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1b3"
+                },
+                "from": "06:00",
+                "to": "04:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1b4"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1b5"
+                },
+                "from": "06:00",
+                "to": "04:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1b6"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1b7"
+                },
+                "from": "06:00",
+                "to": "04:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1b8"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1b9"
+                },
+                "from": "06:00",
+                "to": "04:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1ba"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1bb"
+                },
+                "from": "06:00",
+                "to": "04:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1bc"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1bd"
+                },
+                "from": "06:00",
+                "to": "04:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.051Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T09:48:52.627Z"
+        },
+        "phone": {
+          "number": "555042954",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "95dd8a35-ba26-4e09-8b13-64f573cc6222",
+        "reference": "B06",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f1be"
+        },
+        "name": "Esso Coffee le Prestige ",
+        "arabicName": "إيسو كوفي لي برستيج مول ",
+        "lat": "21.561580702997613",
+        "lng": "39.12538290023804",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1bf"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1c0"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1c1"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1c2"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1c3"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1c4"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1c5"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1c6"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1c7"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1c8"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1c9"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1ca"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1cb"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1cc"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.051Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T09:50:24.775Z"
+        },
+        "phone": {
+          "number": "555863533",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "93c4be68-1f8b-4f5c-8cd9-ba7f1cc6b402",
+        "reference": "B04",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f1cd"
+        },
+        "name": "Esso Coffee Al Manar Branch",
+        "arabicName": "إيسو كوفي فرع المنار ",
+        "lat": "21.597095769511675",
+        "lng": "39.24884229898453",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1ce"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1cf"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1d0"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1d1"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1d2"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1d3"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1d4"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1d5"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1d6"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1d7"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1d8"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1d9"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1da"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1db"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.051Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T09:51:09.077Z"
+        },
+        "phone": {
+          "number": "555042954",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "936005db-d7fb-498c-a440-a1aa314259b9",
+        "reference": "B03",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f1dc"
+        },
+        "name": "Esso Coffee Prince Fawaz Branch",
+        "arabicName": "إيسو كوفي فرع حي الأمير فواز ",
+        "lat": "21.441944345052363",
+        "lng": "39.27264153957367",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1dd"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1de"
+                },
+                "from": "05:00",
+                "to": "04:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1df"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1e0"
+                },
+                "from": "05:00",
+                "to": "04:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1e1"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1e2"
+                },
+                "from": "05:00",
+                "to": "04:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1e3"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1e4"
+                },
+                "from": "05:00",
+                "to": "04:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1e5"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1e6"
+                },
+                "from": "05:00",
+                "to": "04:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1e7"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1e8"
+                },
+                "from": "05:00",
+                "to": "04:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1e9"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1ea"
+                },
+                "from": "05:00",
+                "to": "04:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.051Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T09:52:08.575Z"
+        },
+        "phone": {
+          "number": "555216811",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "94a988c4-6dfd-41ea-bed3-cb280018ff4f",
+        "reference": "B05",
+        "main": false,
+        "active": false,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f1eb"
+        },
+        "name": "AlNaseem - jeddah",
+        "arabicName": "النسيم - جدة",
+        "lat": "21.511215161591167",
+        "lng": "39.22701984643936",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1ec"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1ed"
+                },
+                "from": "06:00",
+                "to": "05:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1ee"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1ef"
+                },
+                "from": "06:00",
+                "to": "05:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1f0"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1f1"
+                },
+                "from": "06:00",
+                "to": "05:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1f2"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1f3"
+                },
+                "from": "06:00",
+                "to": "05:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1f4"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1f5"
+                },
+                "from": "06:00",
+                "to": "05:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1f6"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1f7"
+                },
+                "from": "06:00",
+                "to": "05:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1f8"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1f9"
+                },
+                "from": "06:00",
+                "to": "05:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.051Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T09:54:31.779Z"
+        },
+        "phone": {
+          "number": "555042954",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "99623174-3620-4c63-91b9-fbefdca85571",
+        "reference": "B18",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f1fa"
+        },
+        "name": "Esso Coffee AlNaseem - Makkah",
+        "arabicName": "إيسو كوفي فرع النسيم - مكة",
+        "lat": "21.38199440882462",
+        "lng": "39.87283408641815",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1fb"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1fc"
+                },
+                "from": "06:00",
+                "to": "05:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1fd"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f1fe"
+                },
+                "from": "06:00",
+                "to": "05:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f1ff"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f200"
+                },
+                "from": "06:00",
+                "to": "05:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f201"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f202"
+                },
+                "from": "06:00",
+                "to": "05:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f203"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f204"
+                },
+                "from": "06:00",
+                "to": "05:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f205"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f206"
+                },
+                "from": "06:00",
+                "to": "05:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f207"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f208"
+                },
+                "from": "06:00",
+                "to": "05:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.051Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T09:54:09.126Z"
+        },
+        "phone": {
+          "number": "535311307",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "97a77c7a-ae36-41df-9e88-1069c2174370",
+        "reference": "B08",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f209"
+        },
+        "name": "Al Basatin - To Go ",
+        "arabicName": "البساتين تو جو ",
+        "lat": "21.68247431952154",
+        "lng": "39.118967056274414",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f20a"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "6682573d487234001d7ece85"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f20c"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825815487234001d7ee7c7"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f20e"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825815487234001d7ee7c9"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f210"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825815487234001d7ee7cb"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f212"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825815487234001d7ee7cd"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f214"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825815487234001d7ee7cf"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f216"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825815487234001d7ee7d1"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.051Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T10:05:17.338Z"
+        },
+        "phone": {
+          "number": "556540878",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "9874dc10-0ef3-4726-b7e6-bbe5a0c6be05",
+        "reference": "B13",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f218"
+        },
+        "name": "AlOlya To GO",
+        "arabicName": "العليا تو جو",
+        "lat": "21.74644579148963",
+        "lng": "39.148187041282654",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f219"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825afb487234001d7f5d6e"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f21b"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825afb487234001d7f5d70"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f21d"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825afb487234001d7f5d72"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f21f"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825afb487234001d7f5d74"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f221"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825afb487234001d7f5d76"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f223"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825afb487234001d7f5d78"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f225"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825afb487234001d7f5d7a"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.052Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T10:05:37.807Z"
+        },
+        "phone": {
+          "number": "553218075",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "98bfb960-fe44-4adb-8162-69f1717ed0ff",
+        "reference": "B14",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f227"
+        },
+        "name": "Duaar aljamal To Go ",
+        "arabicName": "دوار الجمل تو جو",
+        "lat": "21.76427383782027",
+        "lng": "39.141118079423904",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f228"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825c3d487234001d7f987a"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f22a"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825c3d487234001d7f987c"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f22c"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825c3d487234001d7f987e"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f22e"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825c3d487234001d7f9880"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f230"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825c3d487234001d7f9882"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f232"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825c3d487234001d7f9884"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f234"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825c3d487234001d7f9886"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.052Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T10:07:31.040Z"
+        },
+        "phone": {
+          "number": "556574212",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "97a77c7a-ae36-41df-9e88-1069c2174370",
+        "reference": "B08",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f236"
+        },
+        "name": "ALRehily To Go",
+        "arabicName": "الرحيلي تو جو",
+        "lat": "21.7946672117818",
+        "lng": "39.12505567073822",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f237"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825d55487234001d7fc451"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f239"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825d55487234001d7fc453"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f23b"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825d55487234001d7fc455"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f23d"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825d55487234001d7fc457"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f23f"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825d55487234001d7fc459"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f241"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825d55487234001d7fc45b"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f243"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825d55487234001d7fc45d"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.052Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T10:07:20.340Z"
+        },
+        "phone": {
+          "number": "555042954",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "9874db83-a2be-46f1-9602-20d1bb72524c",
+        "reference": "B11",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f245"
+        },
+        "name": "King Saud To Go",
+        "arabicName": "طريق الملك سعود تو جو",
+        "lat": "21.8107940671023",
+        "lng": "39.10162724554539",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f246"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825e69487234001d7ffc5d"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f248"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825e69487234001d7ffc5f"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f24a"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825e69487234001d7ffc61"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f24c"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825e69487234001d7ffc63"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f24e"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825e69487234001d7ffc65"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f250"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825e69487234001d7ffc67"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f252"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825e69487234001d7ffc69"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.052Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T10:08:07.600Z"
+        },
+        "phone": {
+          "number": "556553483",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "98bfb976-5f8f-407a-aa8f-798706d49df4",
+        "reference": "B15",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f254"
+        },
+        "name": "Al Sawari Prince Abdulmageed To Go ",
+        "arabicName": "الصواري - الأمير عبدالمجيد تو جو",
+        "lat": "21.786191838144408",
+        "lng": "39.10731017589569",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f255"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825f51487234001d802ae7"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f257"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825f51487234001d802ae9"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f259"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825f51487234001d802aeb"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f25b"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825f51487234001d802aed"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f25d"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825f51487234001d802aef"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f25f"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825f51487234001d802af1"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f261"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66825f51487234001d802af3"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.052Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T10:08:28.537Z"
+        },
+        "phone": {
+          "number": "555042954",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "9874db83-a2be-46f1-9602-20d1bb72524c",
+        "reference": "B11",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f263"
+        },
+        "name": "AlSalamah To Go ",
+        "arabicName": "السلامة تو جو",
+        "lat": "21.587289403224307",
+        "lng": "39.16294455528259",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f264"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "6682614e487234001d807e1d"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f266"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "6682614e487234001d807e1f"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f268"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "6682614e487234001d807e21"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f26a"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "6682614e487234001d807e23"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f26c"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "6682614e487234001d807e25"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f26e"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "6682614e487234001d807e27"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f270"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "6682614e487234001d807e29"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.052Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T10:08:46.336Z"
+        },
+        "phone": {
+          "number": "555042954",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "9874dbfc-0ab7-4981-b8b8-d80dd223564d",
+        "reference": "B35",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f272"
+        },
+        "name": "Al Rayyan To Go ",
+        "arabicName": "الريان تو جو",
+        "lat": "21.70005236289391",
+        "lng": "39.20358404517174",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f273"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "6682624b487234001d80a30f"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f275"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "6682624b487234001d80a311"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f277"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "6682624b487234001d80a313"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f279"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "6682624b487234001d80a315"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f27b"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "6682624b487234001d80a317"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f27d"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "6682624b487234001d80a319"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f27f"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "6682624b487234001d80a31b"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.052Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T11:08:28.793Z"
+        },
+        "phone": {
+          "number": "556553483",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "97a77c8a-c242-49f0-94ee-a04ab173a5d3",
+        "reference": "B09",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f281"
+        },
+        "name": "Aprq Al Raghammah To Go ",
+        "arabicName": "أبرق الرغامة تو جو",
+        "lat": "21.50626174409495",
+        "lng": "39.25820052623749",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f282"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826441487234001d810396"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f284"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826441487234001d810398"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f286"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826441487234001d81039a"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f288"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826441487234001d81039c"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f28a"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826441487234001d81039e"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f28c"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826441487234001d8103a0"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f28e"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826441487234001d8103a2"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.052Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T10:11:26.435Z"
+        },
+        "phone": {
+          "number": "556589663",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "97a77c5f-c326-480c-8e98-801878065be1",
+        "reference": "B07",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f290"
+        },
+        "name": "AlRahmaniah To Go",
+        "arabicName": "الرحمانية تو جو",
+        "lat": "21.77909335825818",
+        "lng": "39.21636879444122",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f291"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "668265ab487234001d814ab4"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f293"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "668265ab487234001d814ab6"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f295"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "668265ab487234001d814ab8"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f297"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "668265ab487234001d814aba"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f299"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "668265ab487234001d814abc"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f29b"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "668265ab487234001d814abe"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f29d"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "668265ab487234001d814ac0"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.052Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T10:13:03.514Z"
+        },
+        "phone": {
+          "number": "556515347",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "97a77c9e-f970-4d81-baa2-839a82f23f9e",
+        "reference": "B10",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f29f"
+        },
+        "name": "Alwazirya To Go",
+        "arabicName": "الوزيرية تو جو",
+        "lat": "21.464142148671076",
+        "lng": "39.24022704362869",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2a0"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "668266ff487234001d81829d"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2a2"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "668266ff487234001d81829f"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2a4"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "668266ff487234001d8182a1"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2a6"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "668266ff487234001d8182a3"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2a8"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "668266ff487234001d8182a5"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2aa"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "668266ff487234001d8182a7"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2ac"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "668266ff487234001d8182a9"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.052Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-26T11:44:43.941Z"
+        },
+        "phone": {
+          "number": "556540470",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "98bfb976-5f8f-407a-aa8f-798706d49df4",
+        "reference": "B15",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f2ae"
+        },
+        "name": "Al Nuzha To Go",
+        "arabicName": "النزهة تو جو",
+        "lat": "21.633429894203957",
+        "lng": "39.16395038366318",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2af"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826852487234001d81b23d"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2b1"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826852487234001d81b23f"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2b3"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826852487234001d81b241"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2b5"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826852487234001d81b243"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2b7"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826852487234001d81b245"
+                },
+                "from": "05:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2b9"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826852487234001d81b247"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2bb"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826852487234001d81b249"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.052Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T10:14:32.539Z"
+        },
+        "phone": {
+          "number": "508771944",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "98bfb984-9042-4897-9120-3b3a8de18991",
+        "reference": "B16",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f2bd"
+        },
+        "name": "Mushreffa To Go",
+        "arabicName": "مشرفة تو جو",
+        "lat": "21.535797584812602",
+        "lng": "39.17832165956497",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2be"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826a57487234001d82084c"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2c0"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826a57487234001d82084e"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2c2"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826a57487234001d820850"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2c4"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826a57487234001d820852"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2c6"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826a57487234001d820854"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2c8"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826a57487234001d820856"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2ca"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826a57487234001d820858"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.052Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T10:14:56.222Z"
+        },
+        "phone": {
+          "number": "556544383",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "99623174-3620-4c63-91b9-fbefdca85571",
+        "reference": "B18",
+        "main": false,
+        "active": false,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f2cc"
+        },
+        "name": "Esso Coffee RedSea Mall ",
+        "arabicName": "إيسو كوفي الردسي مول ",
+        "lat": "21.628627760305573",
+        "lng": "39.11184310913086",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2cd"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826b9e487234001d8239e2"
+                },
+                "from": "09:00",
+                "to": "02:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2cf"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826b9e487234001d8239e4"
+                },
+                "from": "09:00",
+                "to": "02:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2d1"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826b9e487234001d8239e6"
+                },
+                "from": "09:00",
+                "to": "02:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2d3"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826b9e487234001d8239e8"
+                },
+                "from": "09:00",
+                "to": "02:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2d5"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826b9e487234001d8239ea"
+                },
+                "from": "09:00",
+                "to": "02:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2d7"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826b9e487234001d8239ec"
+                },
+                "from": "09:00",
+                "to": "02:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2d9"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66826b9e487234001d8239ee"
+                },
+                "from": "09:00",
+                "to": "02:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.052Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T10:15:37.928Z"
+        },
+        "phone": {
+          "number": "555042954",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "99623180-3a44-4fef-80b3-c75e51ceba41",
+        "reference": "B19",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f2db"
+        },
+        "name": "Al Salama To Go",
+        "arabicName": "السلامة تو جو",
+        "lat": "21.587324320254055",
+        "lng": "39.16294723749161",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2dc"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b116ccfef7001e6fdd86"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2de"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b116ccfef7001e6fdd88"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2e0"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b116ccfef7001e6fdd8a"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2e2"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b116ccfef7001e6fdd8c"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2e4"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b116ccfef7001e6fdd8e"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2e6"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b116ccfef7001e6fdd90"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2e8"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b116ccfef7001e6fdd92"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.052Z"
+        },
+        "updated_at": {
+          "$date": "2025-01-09T06:40:08.689Z"
+        },
+        "phone": {
+          "number": "555042954",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "9a5399ab-005f-473b-b0a9-c71e2bdd4873",
+        "reference": "B20",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f2ea"
+        },
+        "name": "Al Rawada To Go ",
+        "arabicName": "الروضة تو جو",
+        "lat": "21.57315978567127",
+        "lng": "39.157885909080505",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2eb"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b2f2ccfef7001e704ede"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2ed"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b2f2ccfef7001e704ee0"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2ef"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b2f2ccfef7001e704ee2"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2f1"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b2f2ccfef7001e704ee4"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2f3"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b2f2ccfef7001e704ee6"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2f5"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b2f2ccfef7001e704ee8"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2f7"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b2f2ccfef7001e704eea"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.052Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T10:26:15.320Z"
+        },
+        "phone": {
+          "number": "555042954",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "9a5399bb-235a-4ad9-86e9-5e6af07c8a2f",
+        "reference": "B21",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f2f9"
+        },
+        "name": "Al Safa To Go",
+        "arabicName": "الصفا تو جو",
+        "lat": "21.600205635532177",
+        "lng": "39.22342836856842",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2fa"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b4a0ccfef7001e708c4f"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2fc"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b4a0ccfef7001e708c51"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f2fe"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b4a0ccfef7001e708c53"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f300"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b4a0ccfef7001e708c55"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f302"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b4a0ccfef7001e708c57"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f304"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b4a0ccfef7001e708c59"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f306"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b4a0ccfef7001e708c5b"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.052Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T10:26:49.571Z"
+        },
+        "phone": {
+          "number": "555042954",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "9abca34c-db98-4d01-a737-624fa404b101",
+        "reference": "B25",
+        "main": false,
+        "active": false,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f308"
+        },
+        "name": "City Walk ",
+        "arabicName": "السيتي ووك",
+        "lat": "21.634606716789786",
+        "lng": "39.10699903964996",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f309"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b5dbccfef7001e70c11e"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f30b"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b5dbccfef7001e70c120"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f30d"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b5dbccfef7001e70c122"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f30f"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b5dbccfef7001e70c124"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f311"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b5dbccfef7001e70c126"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f313"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b5dbccfef7001e70c128"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f315"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b5dbccfef7001e70c12a"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.052Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-02T08:11:01.708Z"
+        },
+        "phone": {
+          "number": "555042954",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "9af0eded-0be4-4709-b888-1503d06515fc",
+        "reference": "B26",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f317"
+        },
+        "name": "ESSO Coffee Redsea Mall",
+        "arabicName": "إيسو كوفي رد سي مول",
+        "lat": "21.62793398088226",
+        "lng": "39.11105051636696",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f318"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f319"
+                },
+                "from": "05:00",
+                "to": "04:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f31a"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f31b"
+                },
+                "from": "05:00",
+                "to": "04:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f31c"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f31d"
+                },
+                "from": "05:00",
+                "to": "04:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f31e"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f31f"
+                },
+                "from": "05:00",
+                "to": "04:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f320"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f321"
+                },
+                "from": "05:00",
+                "to": "04:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f322"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f323"
+                },
+                "from": "05:00",
+                "to": "04:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f324"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "65c9d578041c07001d99f325"
+                },
+                "from": "05:00",
+                "to": "04:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.053Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T10:27:25.380Z"
+        },
+        "phone": {
+          "number": "555042954",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "9af0edf9-9702-47b1-93f6-8ca95808d23f",
+        "reference": "B27",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f326"
+        },
+        "name": "Al Manar To Go",
+        "arabicName": "المنار تو جو",
+        "lat": "21.60088146766398",
+        "lng": "39.22468230128288",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f327"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b68cccfef7001e70e509"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f329"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b68cccfef7001e70e50b"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f32b"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b68cccfef7001e70e50d"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f32d"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b68cccfef7001e70e50f"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f32f"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b68cccfef7001e70e511"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f331"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b68cccfef7001e70e513"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f333"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0b68cccfef7001e70e515"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.053Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T10:20:41.576Z"
+        },
+        "phone": {
+          "number": "555042954",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "9b1f65d7-aa2e-496c-bfa3-1d0a4d471670",
+        "reference": "B28",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f335"
+        },
+        "name": "Al-Rahili To Go",
+        "arabicName": "الرحيلي تو جو",
+        "lat": "21.794192150836626",
+        "lng": "39.12552170455456",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f336"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0bad8ccfef7001e71ac6d"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f338"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0bad8ccfef7001e71ac6f"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f33a"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0bad8ccfef7001e71ac71"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f33c"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0bad8ccfef7001e71ac73"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f33e"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0bad8ccfef7001e71ac75"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f340"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0bad8ccfef7001e71ac77"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f342"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0bad8ccfef7001e71ac79"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.053Z"
+        },
+        "updated_at": {
+          "$date": "2025-01-07T10:35:27.931Z"
+        },
+        "phone": {
+          "number": "555042954",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "9b1f65e1-7b92-40f3-9a10-59519dedf9f6",
+        "reference": "B29",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "65c9d578041c07001d99f344"
+        },
+        "name": "Esso Coffee U Walk Mall",
+        "arabicName": "إيسو كوفي يو ووك مول",
+        "lat": "21.583221511634516",
+        "lng": "39.140682220458984",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f345"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0bd36ccfef7001e71fe41"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f347"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0bd36ccfef7001e71fe43"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f349"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0bd36ccfef7001e71fe45"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f34b"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0bd36ccfef7001e71fe47"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f34d"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0bd36ccfef7001e71fe49"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f34f"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0bd36ccfef7001e71fe4b"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "65c9d578041c07001d99f351"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0bd36ccfef7001e71fe4d"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-02-12T08:23:21.053Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T10:19:49.979Z"
+        },
+        "phone": {
+          "number": "555042954",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "9b576e9b-ee76-4797-8954-8e7134f103cf",
+        "reference": "B30",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "6620f54cff2de0001cb3dfa5"
+        },
+        "name": "Al-Bawadi To Go ",
+        "arabicName": "البوادي تو جو",
+        "lat": "21.58152548384475",
+        "lng": "39.165658950805664",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "6620f54cff2de0001cb3dfa6"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0be38ccfef7001e725719"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "6620f54cff2de0001cb3dfa8"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0be38ccfef7001e72571b"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "6620f54cff2de0001cb3dfaa"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0be38ccfef7001e72571d"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "6620f54cff2de0001cb3dfac"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0be38ccfef7001e72571f"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "6620f54cff2de0001cb3dfae"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0be38ccfef7001e725721"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "6620f54cff2de0001cb3dfb0"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0be38ccfef7001e725723"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "6620f54cff2de0001cb3dfb2"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0be38ccfef7001e725725"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-04-18T10:26:20.847Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T10:18:49.671Z"
+        },
+        "phone": {
+          "number": "555042954",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "9b576ea9-7cc2-41a6-bae1-d54919a2f308",
+        "reference": "B31",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "6620f54cff2de0001cb3dfb4"
+        },
+        "name": "Sari To Go",
+        "arabicName": "صاري تو جو",
+        "lat": "21.579435351693473",
+        "lng": "39.158921241760254",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "6620f54cff2de0001cb3dfb5"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0c001ccfef7001e72ac89"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "6620f54cff2de0001cb3dfb7"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0c001ccfef7001e72ac8b"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "6620f54cff2de0001cb3dfb9"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0c001ccfef7001e72ac8d"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "6620f54cff2de0001cb3dfbb"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0c001ccfef7001e72ac8f"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "6620f54cff2de0001cb3dfbd"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0c001ccfef7001e72ac91"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "6620f54cff2de0001cb3dfbf"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0c001ccfef7001e72ac93"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "6620f54cff2de0001cb3dfc1"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "66a0c001ccfef7001e72ac95"
+                },
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-04-18T10:26:20.847Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T10:18:19.985Z"
+        },
+        "phone": {
+          "number": "555042954",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "9b9c021f-167a-42dc-a0b6-ad23562031aa",
+        "reference": "B32",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "6620f54cff2de0001cb3dfc3"
+        },
+        "name": "Esso Coffee Jamjoom branch",
+        "arabicName": "إيسو كوفي فرع الجمجوم",
+        "lat": "21.5220372300719",
+        "lng": "39.15720731019974",
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "6620f54cff2de0001cb3dfc4"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "6620f54cff2de0001cb3dfc5"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "6620f54cff2de0001cb3dfc6"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "6620f54cff2de0001cb3dfc7"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "6620f54cff2de0001cb3dfc8"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "6620f54cff2de0001cb3dfc9"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "6620f54cff2de0001cb3dfca"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "6620f54cff2de0001cb3dfcb"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "6620f54cff2de0001cb3dfcc"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "6620f54cff2de0001cb3dfcd"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "6620f54cff2de0001cb3dfce"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "6620f54cff2de0001cb3dfcf"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "6620f54cff2de0001cb3dfd0"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "6620f54cff2de0001cb3dfd1"
+                },
+                "from": "00:00",
+                "to": "00:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-04-18T10:26:20.847Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T11:09:28.570Z"
+        },
+        "phone": {
+          "number": "555042954",
+          "countryCode": "966"
+        }
+      },
+      {
+        "sourceId": "9da70892-69d5-47fb-9191-9946713fa21b",
+        "reference": "B33",
+        "main": false,
+        "active": true,
+        "_id": {
+          "$oid": "67627fa8462bd6001d7fe42a"
+        },
+        "name": "Construction City To Go",
+        "arabicName": "مدينة البناء تو جو ",
+        "lat": "21.619627",
+        "lng": "39.154835",
+        "phone": {
+          "number": "555042954",
+          "countryCode": "966"
+        },
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "67627fa8462bd6001d7fe42b"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "67627fa8462bd6001d7fe42c"
+                },
+                "from": "04:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "67627fa8462bd6001d7fe42d"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "67627fa8462bd6001d7fe42e"
+                },
+                "from": "04:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "67627fa8462bd6001d7fe42f"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "67627fa8462bd6001d7fe430"
+                },
+                "from": "04:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "67627fa8462bd6001d7fe431"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "67627fa8462bd6001d7fe432"
+                },
+                "from": "04:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "67627fa8462bd6001d7fe433"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "67627fa8462bd6001d7fe434"
+                },
+                "from": "04:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "67627fa8462bd6001d7fe435"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "67627fa8462bd6001d7fe436"
+                },
+                "from": "04:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "67627fa8462bd6001d7fe437"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "67627fa8462bd6001d7fe438"
+                },
+                "from": "04:00",
+                "to": "03:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2024-12-18T07:54:16.217Z"
+        },
+        "updated_at": {
+          "$date": "2024-12-24T11:09:37.276Z"
+        }
+      },
+      {
+        "sourceId": "",
+        "reference": "",
+        "main": false,
+        "active": false,
+        "_id": {
+          "$oid": "677e16d560777047d0ac9c0a"
+        },
+        "name": "Prince Fawaz",
+        "arabicName": null,
+        "lat": "21.4555",
+        "lng": "39.271175",
+        "phone": {
+          "number": "555216811",
+          "countryCode": "966"
+        },
+        "workingHours": {
+          "sunday": {
+            "working": true,
+            "_id": {
+              "$oid": "677e16d560777047d0ac9c0b"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "677e16d560777047d0ac9c0c"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "monday": {
+            "working": true,
+            "_id": {
+              "$oid": "677e16d560777047d0ac9c0d"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "677e16d560777047d0ac9c0e"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "working": true,
+            "_id": {
+              "$oid": "677e16d560777047d0ac9c0f"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "677e16d560777047d0ac9c10"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "working": true,
+            "_id": {
+              "$oid": "677e16d560777047d0ac9c11"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "677e16d560777047d0ac9c12"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "thursday": {
+            "working": true,
+            "_id": {
+              "$oid": "677e16d560777047d0ac9c13"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "677e16d560777047d0ac9c14"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "friday": {
+            "working": true,
+            "_id": {
+              "$oid": "677e16d560777047d0ac9c15"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "677e16d560777047d0ac9c16"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          },
+          "saturday": {
+            "working": true,
+            "_id": {
+              "$oid": "677e16d560777047d0ac9c17"
+            },
+            "shifts": [
+              {
+                "_id": {
+                  "$oid": "677e16d560777047d0ac9c18"
+                },
+                "from": "06:00",
+                "to": "03:00"
+              }
+            ]
+          }
+        },
+        "created_at": {
+          "$date": "2025-01-08T06:10:29.360Z"
+        },
+        "updated_at": {
+          "$date": "2025-01-08T06:10:29.360Z"
+        }
+      }
+    ],
+    "integrations": [
+      {
+        "active": true,
+        "_id": {
+          "$oid": "65c9d31d041c07001d996066"
+        },
+        "integrationName": "FOODICS",
+        "activationDate": {
+          "$date": "2024-12-02T06:53:45.100Z"
+        }
+      }
+    ],
+    "owner": {
+      "$oid": "65c9d1fb041c07001d99217f"
+    },
+    "loyaltyId": {
+      "$oid": "65c9d1fa041c07001d99217e"
+    },
+    "planId": {
+      "$oid": "65c8a5a825c73a001d09297e"
+    },
+    "created_at": {
+      "$date": "2024-02-12T08:08:27.156Z"
+    },
+    "updated_at": {
+      "$date": "2025-01-09T06:40:08.690Z"
+    },
+    "__v": 5,
+    "status": "COMING_SOON",
+    "logo": "https://prod-boonus-general.s3.amazonaws.com/logo_65c9d1fa041c07001d99217d_Il3pF1WfY0.jpg",
+    "supportPhone": {
+      "number": "555042954",
+      "countryCode": "966"
+    },
+    "website": "https://linktr.ee/essocoffeeksa",
+    "metaData": {
+      "foodics": {
+        "business": 856272,
+        "token_type": "Bearer",
+        "expires_in": 157766400,
+        "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI5MjE5OWM4OS0xNDU2LTQ3NTctYTQzMi1jYmYwNGFkNWM3NjIiLCJqdGkiOiJhNTZhNmM3Y2YyZTI5ODBjODYwMzkzYTQ5NjJjYWZkMDNjMzAzMTFjZmM1YjY4ZDE4NTdkZTdhNTQ3Yjk2ZDMwMjgxZGM3ODE4MWViODBlYiIsImlhdCI6MTczMzEyMjQyOC4yMTU1MDksIm5iZiI6MTczMzEyMjQyOC4yMTU1MDksImV4cCI6MTg5MDg4ODgyOC4xNjkyMzksInN1YiI6IjkxNWM5NTQ5LTFkNzYtNDgxNi04YTkxLTNkOTZkNzdhZTA4MCIsInNjb3BlcyI6W10sImJ1c2luZXNzIjoiOTE1Yzk1NDktMWRiNC00NWI3LTg3MGItYzY2YjliMDBhNDBiIiwicmVmZXJlbmNlIjoiODU2MjcyIn0.aDrSnlDBtwzkPaK1Nn_vBmWSjEODlTr-g4hQ7EosL1qqkQvL3JeFt3oPJf2vJHBvD3vMA1SYYGblsYR5V0q6c8yRs9_phtZ3VPeQ_RrBz5yRkmbDu9suKRamTO1eMgYXg4L7GcTG0MCZuN1-yopK9ux9hyf0IBL3YFDKcqbICOdNyN02FNlN9AEMnb6mOEDXHdqcytJBQvHnRMFNzuupUjajY4HpOIfJO2mtHd70XEFEy3MGQPLX4zwzm2-FUXaqO3zCAgC17A5RmFDikv3_scGe1egzSC6JrOi26z90xyMOAC9GQx7BPaEC_gItguFFQkQt-v1F-I-eK-oZiTQo4LHNg0qWE9EWwPUZJp5BFARdNLn3YlpxZ-sd0R4KwyswFG8gljZ1avZl61kPGWNLgIywd_Zt60FKwkK_269wKgDLhwjr7vPMfMwZq6kryaT0KHkq08lgya6sjbq1Q8oGJ8s2P-jbMglD4eBR0hfKo6sBwbUTzlbjUFFDxmysPk6COognV59RjUzkJ23kC09Ys7DKLs25kgBxF8yR66jPdeO_MKtGzDa8jtlYvcxSrdkxW4c23_YbR7Ur2lEenSK-p2Gz5sCeADI81qH2KjEKAJ29OVqsspfnoyiEKWTo0WCh1egt34OifRX5i1qjOnbiN0Voc9zUoFb8BJ703V3XNr8",
+        "refresh_token": "def502005a7e12574b280ba4437c495332e0535e5a802daadb05553e9e6f38cf59fedfc4666b16c14c6792d28ae8e389b22a7d8d2d6ef9ea1bc741caa227ce059bc005e76cb4dd37d109fc22ab7f87306923ac3a31c3dc3f8ba6bb296331027a745c4318cd78b46a85c049a320554b2253030f62883bc2d27f8053d08d6fb110d3b50c65012ccf13a8a2399c63d40bcbcf68a22c852ca3f680ec75537907080f69a59937101641fd79911f467577e79a6c6144a80e1462e3d362070ad3ef120b756ea7bdcc777165b6b3e36a2b8a1c44c76511f8b089401ed438e64b496e42f2f2acf0b1a1608b6fa0aba090fb297a5e6aa620ec6fae1819d40d080d5c6fe8490bd9592b458da68414b2bfea29515de4096fbe61e20f4dcb589a2e0cc48abe94c89702453555349387ea578478130e1e3e6742b5027e132e094e25a4e7cd00c560de64fffd40942dd35ba65d8dc87f9b1add5f6ef68b97d3483983539e4e3dcaafb2aa3ee792a15f58c77a6c583fcbf1179217e53bd7729e0491fd8d4bb5dc27656c7a72747e1c500963c99b3936871e1c969a8f86ff77e68e460cbe6e730afdf18fc37b2a0e696e20"
+      }
+    }
+  }

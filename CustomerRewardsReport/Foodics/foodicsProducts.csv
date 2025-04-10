@@ -1,0 +1,51 @@
+ID,SKU,Barcode,Name,Localized Name,Description,Localized Description,Image,Is Active,Is Stock Product,Is Non-Revenue,Is Ready,Pricing Method,Selling Method,Costing Method,Preparation Time,Price,Cost,Calories,Walking Minutes to Burn Calories,Is High Salt,Created At,Updated At,Deleted At
+98e12f73-a7c3-4687-b418-89ad92f89d8b,sk-0001,,espresso,اسبريسو,اسبريسو,,,true,false,false,true,1,1,2,,13,,,,false,2023-04-08 04:48:31,2023-12-27 22:41:29,2023-12-27 22:41:29
+98e12fb1-e866-44c9-9653-a7062fd43c1e,sk-0002,,ristreto,ريستريتو,,,,true,false,false,true,1,1,2,,13,,,,false,2023-04-08 04:49:12,2023-12-27 22:41:29,2023-12-27 22:41:29
+98e13039-8b01-42da-b408-025183fbb619,sk-0003,,longo,لونقو,,,,true,false,false,true,1,1,2,,13,,,,false,2023-04-08 04:50:41,2023-12-27 22:41:28,2023-12-27 22:41:28
+98e1305b-5d68-4eb9-93ef-4a77b36546c4,sk-0004,,dupio,دوبيو,,,,true,false,false,true,1,1,2,,24,,,,false,2023-04-08 04:51:03,2023-12-27 22:41:28,2023-12-27 22:41:28
+98e13121-b31d-4f57-9c5b-831ebaf79c2a,sk-0005,,mikato,ميكاتو,,,,true,false,false,true,1,1,2,,16,,,,false,2023-04-08 04:53:13,2023-12-27 22:41:28,2023-12-27 22:41:28
+98e13194-4e3a-48ed-b977-dff74ea490d7,sk-0006,,Bicolo,,,,,true,false,false,true,1,1,2,,25,,,,false,2023-04-08 04:54:28,2023-12-27 22:41:28,2023-12-27 22:41:28
+98e131e7-00c8-4917-be40-ee53a7d40a5a,sk-0007,,cortado,,,,,true,false,false,true,1,1,2,,16,,,,false,2023-04-08 04:55:22,2023-12-27 22:41:28,2023-12-27 22:41:28
+98e1321d-5464-4e7a-bf52-5eeca3dec0ba,sk-0008,,flat white,,,,,true,false,false,true,1,1,2,,17,,,,false,2023-04-08 04:55:58,2023-12-27 22:41:28,2023-12-27 22:41:28
+98e132cd-2bbd-4632-95ac-6fdc79d85dc9,sk-0009,,cappuccino,,,,,true,false,false,true,1,1,2,,18,,,,false,2023-04-08 04:57:53,2023-12-27 22:41:28,2023-12-27 22:41:28
+98e132fc-c3cf-4e37-be4f-b19241971d0e,sk-0010,,lattee,,,,,true,false,false,true,1,1,2,,19,,,,false,2023-04-08 04:58:24,2023-12-27 22:41:28,2023-12-27 22:41:28
+98e1339b-43ab-4f7e-b6b0-c8bcfed2b329,sk-0011,,red velvet,,,,,true,false,false,true,1,1,2,,20,,,,false,2023-04-08 05:00:08,2023-11-26 06:22:54,2023-11-26 06:22:54
+98e13407-dfe6-4c08-9da7-628bfa34739f,sk-0012,,spanish latte,,,,,true,false,false,true,1,1,2,,20,,,,false,2023-04-08 05:01:19,2023-12-27 22:41:29,2023-12-27 22:41:29
+98e13434-151b-4583-a646-8bdd6304c686,sk-0013,,caramel latte,,,,,true,false,false,true,1,1,2,,20,,,,false,2023-04-08 05:01:48,2023-12-27 22:41:29,2023-12-27 22:41:29
+98e13492-990f-4f39-98e9-a3e1b688408a,sk-0014,,rose lattee,,,,,true,false,false,true,1,1,2,,20,,,,false,2023-04-08 05:02:50,2023-11-26 06:22:44,2023-11-26 06:22:44
+98e13596-1dec-4aa7-a034-4b113355c86f,sk-0015,,white mocha,,,,,true,false,false,true,1,1,2,,20,,,,false,2023-04-08 05:05:40,2023-12-27 22:41:29,2023-12-27 22:41:29
+98e135d2-3a8a-443d-9546-7b695944e373,sk-0016,,mocha,,,,,true,false,false,true,1,1,2,,20,,,,false,2023-04-08 05:06:20,2023-12-27 22:41:29,2023-12-27 22:41:29
+98e137ff-b6f5-4e7b-aa04-0c936590e928,sk-0017,,pistachio latte,,,,,true,false,false,true,1,1,2,,22,,,,false,2023-04-08 05:12:25,2023-12-27 22:41:28,2023-12-27 22:41:28
+98e13888-ffe4-411b-98a2-b2f0c4b7095b,sk-0018,,hot cocolate,,,,,true,false,false,true,1,1,2,,16,,,,false,2023-04-08 05:13:55,2023-12-27 22:50:25,2023-12-27 22:50:25
+98e138e0-c3a4-4053-9e77-d8c53b5e42aa,sk-0019,,hot kinder,,,,,true,false,false,true,1,1,2,,17,,,,false,2023-04-08 05:14:53,2023-12-27 22:50:25,2023-12-27 22:50:25
+98e140f5-ed30-4085-b4b4-46a404234658,sk-0020,,hot white chocolate,,,,,true,false,false,true,1,1,2,,15,,,,false,2023-04-08 05:37:29,2023-12-27 22:50:25,2023-12-27 22:50:25
+98e141ac-6eda-4b33-bd09-fb6b0741a480,sk-0021,,turki,,,,,true,false,false,true,1,1,2,,12,,,,false,2023-04-08 05:39:28,2023-12-27 22:50:25,2023-12-27 22:50:25
+98e142b7-b78d-4e93-affc-3827258b2db7,sk-0022,,red tea,شاي احمر,,,,true,false,false,true,1,1,2,,3,,,,false,2023-04-08 05:42:23,2023-12-27 22:50:56,2023-12-27 22:50:56
+98e142ea-0679-45c9-9c28-5197055696ca,sk-0023,,jasmine tea,,,,,true,false,false,true,1,1,2,,4,,,,false,2023-04-08 05:42:56,2023-11-26 06:18:23,2023-11-26 06:18:23
+98e14380-1d7b-4ea8-a2b2-0676ac406fa6,sk-0024,,milk turkish,تركي بالحليب,,,,true,false,false,true,1,1,2,,13,,,,false,2023-04-08 05:44:35,2023-12-27 22:50:56,2023-12-27 22:50:56
+98e1450c-3674-47c2-b980-7ad797bdaf5f,sk-0025,,chery ,berry tea,شاي بالكرز والتوت,,,,true,false,false,true,1,1,2,,4,,,,false,2023-04-08 05:48:54,2023-11-26 06:18:07,2023-11-26 06:18:07
+98e145f9-b50c-4648-bcd8-80f7af2e0c9e,sk-0026,,cardamom turkish,تركي بالهيل,,,,true,false,false,true,1,1,2,,13,,,,false,2023-04-08 05:51:30,2023-12-27 22:50:56,2023-12-27 22:50:56
+98e14b5c-83aa-4603-bdbd-fbd5a1b27187,sk-0027,,hot macha,,,,,true,false,false,true,1,1,2,,21,,,,false,2023-04-08 06:06:34,2023-12-27 22:50:56,2023-12-27 22:50:56
+98e15a2e-149e-4572-992a-14b036fbffb5,sk-0028,,ايس سبانش صغير small  ice spanish latte,سبانيش لاتيه بارد,,,,true,false,false,true,1,1,2,,21,,,,false,2023-04-08 06:48:00,2025-02-10 02:12:54,
+98e15a8f-37f1-4800-ac39-8a0cf87dbc59,sk-0029,,ايس بستاشيو لاتيه صغير small ice pistachio lattee,ايس بستاشيو لاتيه,,,,true,false,false,true,1,1,2,,22,,,,false,2023-04-08 06:49:03,2025-02-10 02:12:54,
+98e15cb1-4c5d-483a-8e00-88fb548c467c,sk-0030,,ايس وايت موكا صغير   small ice white mocha,ايس وايت موكا,,,,true,false,false,true,1,1,2,,21,,,,false,2023-04-08 06:55:01,2025-02-10 02:12:54,
+98e15d0d-11ef-4d12-8905-346f3eb1f6a7,sk-0031,,ايس موكا صغير small  ice mocha,ايس موكا,,,,true,false,false,true,1,1,2,,21,,,,false,2023-04-08 06:56:02,2025-02-10 02:12:54,
+98e15e12-baa3-4e4d-a32c-7e53c8d5004f,sk-0032,,ايس كراميل لاتيه صغير small  ice cramel latte,ايس كراميل لاتيه,,,,true,false,false,true,1,1,2,,21,,,,false,2023-04-08 06:58:53,2025-02-10 02:12:54,
+98e15fe9-e959-4d4e-9072-9c037ba754e2,sk-0033 l,,ايس لاتيه صغير small  ice latte,ايس لاتيه,,,,true,false,false,true,1,1,2,,19,,,,false,2023-04-08 07:04:02,2025-02-10 02:12:54,
+98e16298-feb1-4da6-9ecc-9391d6c5a9ce,sk-0034,,ايس شوكلت صغير small  ice chocolate,ايس تشوكليت,,,,true,false,false,true,1,1,2,,17,,,,false,2023-04-08 07:11:32,2025-02-10 02:12:54,
+98e16345-ba17-452a-b3fa-75e28701996a,sk-0035,,ايس وايت شوكلت  صغير small ice white chocolate,,,,,true,false,false,true,1,1,2,,17,,,,false,2023-04-08 07:13:25,2025-02-10 02:12:54,
+98e163cd-1b89-4062-8c89-d4be62bfe4fa,sk-0036,,classic ice macha,كلاسيك ايس ماتشا,,,,true,false,false,true,1,1,2,,21,,,,false,2023-04-08 07:14:54,2023-12-28 01:44:34,2023-12-28 01:44:34
+98e16796-e8a6-4333-9f67-8f8565609f1e,sk-0037,,ice sweet macha,ايس سويت ماتشا,,,,true,false,false,true,1,1,2,,24,,,,false,2023-04-08 07:25:30,2023-12-28 01:44:26,2023-12-28 01:44:26
+98e16a5b-cf5b-48b0-ab8b-c095a8d9c482,sk-0038,,water,ماء,,,,true,false,false,true,1,1,2,,1,,,,false,2023-04-08 07:33:14,2023-12-28 01:07:29,2023-12-28 01:07:29
+98e16b2c-1409-4fd1-b833-d1a616c362fc,sk-0039,,today coffe,قهوه اليوم,,,,true,false,false,true,1,1,2,,0,,,,false,2023-04-08 07:35:31,2023-12-27 22:49:55,2023-12-27 22:49:55
+98e16d55-d4cd-4b10-a93d-f8977108569b,sk-0040,,cold brew toddy,كولد برو تودي,,,,true,false,false,true,1,1,2,,20,,,,false,2023-04-08 07:41:34,2023-12-27 22:49:55,2023-12-27 22:49:55
+98e16e4b-5982-4af2-916b-f317c145ef5d,sk-0041,,cold brew tower,كولد برو ابراج,,,,false,false,false,true,1,1,2,,25,,,,false,2023-04-08 07:44:14,2023-11-26 05:15:19,2023-11-26 05:15:19
+98e16ec9-07bc-42a6-a0cb-08bfaa49dbd9,sk-0042,,سفن اب 7up,سفن اب,,,,false,false,false,true,1,1,2,,10,,,,false,2023-04-08 07:45:37,2024-02-25 04:16:51,2024-02-25 04:16:51
+98e16f35-5ebc-4865-859f-ff7e0ed45e0d,sk-0043,,كودرد codred,10,,,,false,false,false,true,1,1,2,,10,,,,false,2023-04-08 07:46:48,2024-02-25 04:16:51,2024-02-25 04:16:51
+98e16fa2-3e40-4a55-82f9-aa4218793b57,sk-0044,,ريدبول red bull,ريد بول,,,,false,false,false,true,1,1,2,,17,,,,false,2023-04-08 07:47:59,2024-02-25 04:16:51,2024-02-25 04:16:51
+98e17009-cf4c-42ef-971b-87b165b295ed,sk-0045,,كوبا ليبري cupa lebry,كوبا ليبري,,,,true,false,false,true,1,1,2,,13,,,,false,2023-04-08 07:49:07,2024-11-05 12:54:02,2024-11-05 12:54:02
+98e170a6-3560-421d-a121-f11bae04b776,sk-0046,,جين تونيك jen tonik,جين تونيك,,,,true,false,false,true,1,1,2,,13,,,,false,2023-04-08 07:50:50,2025-02-10 02:13:24,
+98e17158-ec3d-469e-8c2a-41a566780d6c,sk-0047,,جالكسي galaxy,galaxy,,,,true,false,false,true,1,1,2,,13,,,,false,2023-04-08 07:52:47,2025-02-10 02:13:24,
+98e1719e-79f8-4c4b-8314-781536292f40,sk-0048,,scarlet,سكارليت,,,,true,false,false,true,1,1,2,,14,,,,false,2023-04-08 07:53:32,2023-12-28 01:04:30,2023-12-28 01:04:30
+98e17200-6077-43ab-b05d-295abea31e06,sk-0049,,ice tea peach,ايس تي خوخ,,,,false,false,false,true,1,1,2,,16,,,,false,2023-04-08 07:54:36,2023-12-28 01:04:17,2023-12-28 01:04:17
+98e172a8-15c0-446e-bf51-a10a6d8f2fa2,sk-0050,,red velvet cake,كيكة ريد فلفت,,,,true,false,false,true,1,1,2,,29,,,,false,2023-04-08 07:56:26,2023-11-26 06:28:35,2023-11-26 06:28:35

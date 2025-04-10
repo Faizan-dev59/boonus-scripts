@@ -1,0 +1,697 @@
+[{
+  "_id": {
+    "$oid": "67b43859e546ac001d32bff0"
+  },
+  "stampCardId": {
+    "$oid": "67b42b7ee546ac001d2def78"
+  },
+  "campaignId": null,
+  "walletId": null,
+  "redeemed": true,
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "voucherId": null,
+  "owner": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "loyaltyId": {
+    "$oid": "67b1ded8635f69001d882280"
+  },
+  "code": "10217917",
+  "discount": {
+    "_id": {
+      "$oid": "67b42b7ee546ac001d2def7a"
+    },
+    "type": "PERCENT",
+    "percentOff": 50
+  },
+  "voucherSource": "STAMPS",
+  "name": "Get the watch at half price",
+  "arabicName": "احصل على ساعة بنصف السعر",
+  "products": [],
+  "rewardCost": 15,
+  "created_at": {
+    "$date": "2025-02-18T07:35:53.682Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T07:51:09.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43b6fe546ac001d33afc0"
+  },
+  "stampCardId": {
+    "$oid": "67b42b7ee546ac001d2def78"
+  },
+  "campaignId": null,
+  "walletId": null,
+  "redeemed": true,
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "voucherId": null,
+  "owner": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "loyaltyId": {
+    "$oid": "67b1ded8635f69001d882280"
+  },
+  "code": "24190122",
+  "discount": {
+    "_id": {
+      "$oid": "67b42b7ee546ac001d2def7a"
+    },
+    "type": "PERCENT",
+    "percentOff": 50
+  },
+  "voucherSource": "STAMPS",
+  "name": "Get the watch at half price",
+  "arabicName": "احصل على ساعة بنصف السعر",
+  "products": [],
+  "rewardCost": 15,
+  "created_at": {
+    "$date": "2025-02-18T07:49:03.314Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T07:52:10.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43c2ae546ac001d33ecdc"
+  },
+  "stampCardId": {
+    "$oid": "67b42b7ee546ac001d2def78"
+  },
+  "campaignId": null,
+  "walletId": null,
+  "redeemed": true,
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "voucherId": null,
+  "owner": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "loyaltyId": {
+    "$oid": "67b1ded8635f69001d882280"
+  },
+  "code": "74478833",
+  "discount": {
+    "_id": {
+      "$oid": "67b42b7ee546ac001d2def7a"
+    },
+    "type": "PERCENT",
+    "percentOff": 50
+  },
+  "voucherSource": "STAMPS",
+  "name": "Get the watch at half price",
+  "arabicName": "احصل على ساعة بنصف السعر",
+  "products": [],
+  "rewardCost": 15,
+  "created_at": {
+    "$date": "2025-02-18T07:52:10.049Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T07:54:43.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43cc3e546ac001d341c8c"
+  },
+  "stampCardId": {
+    "$oid": "67b42b7ee546ac001d2def78"
+  },
+  "campaignId": null,
+  "walletId": null,
+  "redeemed": true,
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "voucherId": null,
+  "owner": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "loyaltyId": {
+    "$oid": "67b1ded8635f69001d882280"
+  },
+  "code": "73462564",
+  "discount": {
+    "_id": {
+      "$oid": "67b42b7ee546ac001d2def7a"
+    },
+    "type": "PERCENT",
+    "percentOff": 50
+  },
+  "voucherSource": "STAMPS",
+  "name": "Get the watch at half price",
+  "arabicName": "احصل على ساعة بنصف السعر",
+  "products": [],
+  "rewardCost": 15,
+  "created_at": {
+    "$date": "2025-02-18T07:54:43.498Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T09:03:46.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b44736e546ac001d3887d8"
+  },
+  "stampCardId": {
+    "$oid": "67b42b7ee546ac001d2def78"
+  },
+  "campaignId": null,
+  "walletId": null,
+  "redeemed": true,
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "voucherId": null,
+  "owner": {
+    "$oid": "67b446e8e546ac001d387d46"
+  },
+  "loyaltyId": {
+    "$oid": "67b1ded8635f69001d882280"
+  },
+  "code": "44314502",
+  "discount": {
+    "_id": {
+      "$oid": "67b44656e546ac001d385a07"
+    },
+    "type": "PERCENT",
+    "percentOff": 50
+  },
+  "voucherSource": "STAMPS",
+  "name": "Get the watch at half price",
+  "arabicName": "احصل على ساعة بنصف السعر",
+  "products": [],
+  "rewardCost": 15,
+  "created_at": {
+    "$date": "2025-02-18T08:39:18.386Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T08:41:06.556Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b447a2e546ac001d389ee0"
+  },
+  "stampCardId": {
+    "$oid": "67b42b7ee546ac001d2def78"
+  },
+  "campaignId": null,
+  "walletId": null,
+  "redeemed": false,
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "voucherId": null,
+  "owner": {
+    "$oid": "67b446e8e546ac001d387d46"
+  },
+  "loyaltyId": {
+    "$oid": "67b1ded8635f69001d882280"
+  },
+  "code": "07796172",
+  "discount": {
+    "_id": {
+      "$oid": "67b44656e546ac001d385a07"
+    },
+    "type": "PERCENT",
+    "percentOff": 50
+  },
+  "voucherSource": "STAMPS",
+  "name": "Get the watch at half price",
+  "arabicName": "احصل على ساعة بنصف السعر",
+  "products": [],
+  "rewardCost": 15,
+  "created_at": {
+    "$date": "2025-02-18T08:41:06.538Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T08:41:06.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b447e7e546ac001d38aa60"
+  },
+  "stampCardId": {
+    "$oid": "67b42b7ee546ac001d2def78"
+  },
+  "campaignId": null,
+  "walletId": null,
+  "redeemed": false,
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "voucherId": null,
+  "owner": {
+    "$oid": "67b446e8e546ac001d387d46"
+  },
+  "loyaltyId": {
+    "$oid": "67b1ded8635f69001d882280"
+  },
+  "code": "84878646",
+  "discount": {
+    "_id": {
+      "$oid": "67b44656e546ac001d385a07"
+    },
+    "type": "PERCENT",
+    "percentOff": 50
+  },
+  "voucherSource": "STAMPS",
+  "name": "Get the watch at half price",
+  "arabicName": "احصل على ساعة بنصف السعر",
+  "products": [],
+  "rewardCost": 15,
+  "created_at": {
+    "$date": "2025-02-18T08:42:15.386Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T08:42:15.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b44c0ae546ac001d39f343"
+  },
+  "stampCardId": {
+    "$oid": "67b42b7ee546ac001d2def78"
+  },
+  "campaignId": null,
+  "walletId": null,
+  "redeemed": true,
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "voucherId": null,
+  "owner": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "loyaltyId": {
+    "$oid": "67b1ded8635f69001d882280"
+  },
+  "code": "91445455",
+  "discount": {
+    "_id": {
+      "$oid": "67b44656e546ac001d385a07"
+    },
+    "type": "PERCENT",
+    "percentOff": 50
+  },
+  "voucherSource": "STAMPS",
+  "name": "Get the watch at half price",
+  "arabicName": "احصل على ساعة بنصف السعر",
+  "products": [],
+  "rewardCost": 15,
+  "created_at": {
+    "$date": "2025-02-18T08:59:54.694Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-20T06:49:01.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b44c6de546ac001d3a0b62"
+  },
+  "stampCardId": {
+    "$oid": "67b42b7ee546ac001d2def78"
+  },
+  "campaignId": null,
+  "walletId": null,
+  "redeemed": false,
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "voucherId": null,
+  "owner": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "loyaltyId": {
+    "$oid": "67b1ded8635f69001d882280"
+  },
+  "code": "96618889",
+  "discount": {
+    "_id": {
+      "$oid": "67b44656e546ac001d385a07"
+    },
+    "type": "PERCENT",
+    "percentOff": 50
+  },
+  "voucherSource": "STAMPS",
+  "name": "Get the watch at half price",
+  "arabicName": "احصل على ساعة بنصف السعر",
+  "products": [],
+  "rewardCost": 15,
+  "created_at": {
+    "$date": "2025-02-18T09:01:33.444Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T09:01:33.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b44cf2e546ac001d3a5aa8"
+  },
+  "stampCardId": {
+    "$oid": "67b42b7ee546ac001d2def78"
+  },
+  "campaignId": null,
+  "walletId": null,
+  "redeemed": false,
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "voucherId": null,
+  "owner": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "loyaltyId": {
+    "$oid": "67b1ded8635f69001d882280"
+  },
+  "code": "96167494",
+  "discount": {
+    "_id": {
+      "$oid": "67b44656e546ac001d385a07"
+    },
+    "type": "PERCENT",
+    "percentOff": 50
+  },
+  "voucherSource": "STAMPS",
+  "name": "Get the watch at half price",
+  "arabicName": "احصل على ساعة بنصف السعر",
+  "products": [],
+  "rewardCost": 15,
+  "created_at": {
+    "$date": "2025-02-18T09:03:46.918Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T09:03:46.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b45192e546ac001d3b54b1"
+  },
+  "stampCardId": {
+    "$oid": "67b42b7ee546ac001d2def78"
+  },
+  "campaignId": null,
+  "walletId": null,
+  "redeemed": true,
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "voucherId": null,
+  "owner": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "loyaltyId": {
+    "$oid": "67b1ded8635f69001d882280"
+  },
+  "code": "37436220",
+  "discount": {
+    "_id": {
+      "$oid": "67b44656e546ac001d385a07"
+    },
+    "type": "PERCENT",
+    "percentOff": 50
+  },
+  "voucherSource": "STAMPS",
+  "name": "Get the watch at half price",
+  "arabicName": "احصل على ساعة بنصف السعر",
+  "products": [],
+  "rewardCost": 15,
+  "created_at": {
+    "$date": "2025-02-18T09:23:30.116Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T09:24:30.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b451cee546ac001d3b631f"
+  },
+  "stampCardId": {
+    "$oid": "67b42b7ee546ac001d2def78"
+  },
+  "campaignId": null,
+  "walletId": null,
+  "redeemed": true,
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "voucherId": null,
+  "owner": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "loyaltyId": {
+    "$oid": "67b1ded8635f69001d882280"
+  },
+  "code": "67801678",
+  "discount": {
+    "_id": {
+      "$oid": "67b44656e546ac001d385a07"
+    },
+    "type": "PERCENT",
+    "percentOff": 50
+  },
+  "voucherSource": "STAMPS",
+  "name": "Get the watch at half price",
+  "arabicName": "احصل على ساعة بنصف السعر",
+  "products": [],
+  "rewardCost": 15,
+  "created_at": {
+    "$date": "2025-02-18T09:24:30.496Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T09:44:08.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b45558e546ac001d3c983d"
+  },
+  "stampCardId": {
+    "$oid": "67b42b7ee546ac001d2def78"
+  },
+  "campaignId": null,
+  "walletId": null,
+  "redeemed": false,
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "voucherId": null,
+  "owner": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "loyaltyId": {
+    "$oid": "67b1ded8635f69001d882280"
+  },
+  "code": "77062133",
+  "discount": {
+    "_id": {
+      "$oid": "67b4535de546ac001d3bda65"
+    },
+    "type": "PERCENT",
+    "percentOff": 50
+  },
+  "voucherSource": "STAMPS",
+  "name": "Get the watch at half price",
+  "arabicName": "احصل على ساعة بنصف السعر",
+  "products": [],
+  "rewardCost": 30,
+  "created_at": {
+    "$date": "2025-02-18T09:39:36.123Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T09:39:36.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b456d8e546ac001d3d0476"
+  },
+  "stampCardId": {
+    "$oid": "67b42b7ee546ac001d2def78"
+  },
+  "campaignId": null,
+  "walletId": null,
+  "redeemed": false,
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "voucherId": null,
+  "owner": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "loyaltyId": {
+    "$oid": "67b1ded8635f69001d882280"
+  },
+  "code": "38371151",
+  "discount": {
+    "_id": {
+      "$oid": "67b4535de546ac001d3bda65"
+    },
+    "type": "PERCENT",
+    "percentOff": 50
+  },
+  "voucherSource": "STAMPS",
+  "name": "Get the watch at half price",
+  "arabicName": "احصل على ساعة بنصف السعر",
+  "products": [],
+  "rewardCost": 30,
+  "created_at": {
+    "$date": "2025-02-18T09:46:00.354Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T09:46:00.354Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b5a94090432a001dc28812"
+  },
+  "stampCardId": {
+    "$oid": "67b42b7ee546ac001d2def78"
+  },
+  "campaignId": null,
+  "walletId": null,
+  "redeemed": false,
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "voucherId": null,
+  "owner": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "loyaltyId": {
+    "$oid": "67b1ded8635f69001d882280"
+  },
+  "code": "57383149",
+  "discount": {
+    "_id": {
+      "$oid": "67b4535de546ac001d3bda65"
+    },
+    "type": "PERCENT",
+    "percentOff": 50
+  },
+  "voucherSource": "STAMPS",
+  "name": "Get the watch at half price",
+  "arabicName": "احصل على ساعة بنصف السعر",
+  "products": [],
+  "rewardCost": 30,
+  "created_at": {
+    "$date": "2025-02-19T09:49:52.122Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-19T09:49:52.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b6215790432a001df00d92"
+  },
+  "stampCardId": {
+    "$oid": "67b42b7ee546ac001d2def78"
+  },
+  "campaignId": null,
+  "walletId": null,
+  "redeemed": false,
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "voucherId": null,
+  "owner": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "loyaltyId": {
+    "$oid": "67b1ded8635f69001d882280"
+  },
+  "code": "98158294",
+  "discount": {
+    "_id": {
+      "$oid": "67b620e890432a001deff3a5"
+    },
+    "type": "PERCENT",
+    "percentOff": 50
+  },
+  "voucherSource": "STAMPS",
+  "name": "Get the watch at half price",
+  "arabicName": "احصل على ساعة بنصف السعر",
+  "products": [],
+  "rewardCost": 30,
+  "created_at": {
+    "$date": "2025-02-19T18:22:15.655Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-19T18:22:15.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b623df90432a001df0f2c2"
+  },
+  "stampCardId": {
+    "$oid": "67b42b7ee546ac001d2def78"
+  },
+  "campaignId": null,
+  "walletId": null,
+  "redeemed": false,
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "voucherId": null,
+  "owner": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "loyaltyId": {
+    "$oid": "67b1ded8635f69001d882280"
+  },
+  "code": "53614314",
+  "discount": {
+    "_id": {
+      "$oid": "67b620e890432a001deff3a5"
+    },
+    "type": "PERCENT",
+    "percentOff": 50
+  },
+  "voucherSource": "STAMPS",
+  "name": "Get the watch at half price",
+  "arabicName": "احصل على ساعة بنصف السعر",
+  "products": [],
+  "rewardCost": 30,
+  "created_at": {
+    "$date": "2025-02-19T18:33:03.313Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-19T18:33:03.313Z"
+  },
+  "__v": 0
+}]

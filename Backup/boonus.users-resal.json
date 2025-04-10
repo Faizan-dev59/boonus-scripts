@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "62d94aad916e59001d1cb8d2"
+  },
+  "settings": {
+    "language": "AR",
+    "theme": "default",
+    "timezone": "Saudi Arabia"
+  },
+  "isAdmin": true,
+  "firstName": "Hussein",
+  "lastName": "Gamal",
+  "isVerified": true,
+  "defaultBusiness": {
+    "$oid": "62d94aad916e59001d1cb8d0"
+  },
+  "banned": false,
+  "deleted": false,
+  "fcm": null,
+  "fcms": [],
+  "email": "hussein@resal.me",
+  "password": "$2a$12$SQ1xIwq.hMtBzCbdds7jBO/ORKT5GnMKeP36j9SRogFhd7y8WQZ3O",
+  "country": "Saudi Arabia",
+  "created_at": {
+    "$date": "2022-07-21T12:46:37.899Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-28T09:44:53.931Z"
+  },
+  "__v": 0,
+  "resetPasswordExprie": null,
+  "resetPasswordToken": null,
+  "phone": {
+    "number": "551582127",
+    "countryCode": "966"
+  }
+}]

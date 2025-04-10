@@ -1,0 +1,2005 @@
+[{
+  "_id": {
+    "$oid": "67b437c0e546ac001d328cdb"
+  },
+  "customerId": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b4378ee546ac001d327d22"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b437c0e546ac001d328cdc"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T07:33:20.766Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T07:33:20.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b437fae546ac001d329d3c"
+  },
+  "customerId": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b4378ee546ac001d327d22"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 15,
+  "numberOfStamps": null,
+  "points": null,
+  "type": "VISIT",
+  "discounts": [],
+  "stamps": [],
+  "created_at": {
+    "$date": "2025-02-18T07:34:18.686Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T07:34:18.686Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43859e546ac001d32bff5"
+  },
+  "customerId": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b4378ee546ac001d327d22"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [
+    {
+      "$oid": "67b43859e546ac001d32bff0"
+    }
+  ],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b43859e546ac001d32bff6"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T07:35:53.689Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T07:35:53.689Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b438a9e546ac001d32cf6e"
+  },
+  "customerId": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b4378ee546ac001d327d22"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b438a9e546ac001d32cf6f"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T07:37:13.280Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T07:37:13.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43956e546ac001d3305a7"
+  },
+  "customerId": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b4378ee546ac001d327d22"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 15,
+  "numberOfStamps": null,
+  "points": null,
+  "type": "VISIT",
+  "discounts": [],
+  "stamps": [],
+  "created_at": {
+    "$date": "2025-02-18T07:40:06.517Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T07:40:06.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4397ee546ac001d3313eb"
+  },
+  "customerId": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b4378ee546ac001d327d22"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 15,
+  "numberOfStamps": null,
+  "points": null,
+  "type": "VISIT",
+  "discounts": [],
+  "stamps": [],
+  "created_at": {
+    "$date": "2025-02-18T07:40:46.741Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T07:40:46.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43999e546ac001d3326f1"
+  },
+  "customerId": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b4378ee546ac001d327d22"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 15,
+  "numberOfStamps": null,
+  "points": null,
+  "type": "VISIT",
+  "discounts": [],
+  "stamps": [],
+  "created_at": {
+    "$date": "2025-02-18T07:41:13.282Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T07:41:13.282Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43b6fe546ac001d33afc5"
+  },
+  "customerId": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b4378ee546ac001d327d22"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [
+    {
+      "$oid": "67b43b6fe546ac001d33afc0"
+    }
+  ],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 300,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b43b6fe546ac001d33afc6"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T07:49:03.322Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T07:49:03.322Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43bede546ac001d33d9bd"
+  },
+  "customerId": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b4378ee546ac001d327d22"
+  },
+  "customerVoucherIds": [
+    {
+      "$oid": "67b43859e546ac001d32bff0"
+    }
+  ],
+  "generatedRewards": [],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "DISCOUNT_PERCENT",
+  "discounts": [
+    {
+      "_id": {
+        "$oid": "67b42b7ee546ac001d2def7a"
+      },
+      "type": "PERCENT",
+      "percentOff": 50
+    }
+  ],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b43bede546ac001d33d9bf"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T07:51:09.906Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T07:51:09.906Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43c2ae546ac001d33ece4"
+  },
+  "customerId": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b4378ee546ac001d327d22"
+  },
+  "customerVoucherIds": [
+    {
+      "$oid": "67b43b6fe546ac001d33afc0"
+    }
+  ],
+  "generatedRewards": [
+    {
+      "$oid": "67b43c2ae546ac001d33ecdc"
+    }
+  ],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "DISCOUNT_PERCENT",
+  "discounts": [
+    {
+      "_id": {
+        "$oid": "67b42b7ee546ac001d2def7a"
+      },
+      "type": "PERCENT",
+      "percentOff": 50
+    }
+  ],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b43c2ae546ac001d33ece6"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T07:52:10.062Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T07:52:10.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43c5fe546ac001d33fe06"
+  },
+  "customerId": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b4378ee546ac001d327d22"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b43c5fe546ac001d33fe07"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T07:53:03.913Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T07:53:03.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43cc3e546ac001d341c94"
+  },
+  "customerId": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b4378ee546ac001d327d22"
+  },
+  "customerVoucherIds": [
+    {
+      "$oid": "67b43c2ae546ac001d33ecdc"
+    }
+  ],
+  "generatedRewards": [
+    {
+      "$oid": "67b43cc3e546ac001d341c8c"
+    }
+  ],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "DISCOUNT_PERCENT",
+  "discounts": [
+    {
+      "_id": {
+        "$oid": "67b42b7ee546ac001d2def7a"
+      },
+      "type": "PERCENT",
+      "percentOff": 50
+    }
+  ],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b43cc3e546ac001d341c96"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T07:54:43.508Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T07:54:43.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b44736e546ac001d3887dd"
+  },
+  "customerId": {
+    "$oid": "67b446e8e546ac001d387d46"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b446e8e546ac001d387d49"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [
+    {
+      "$oid": "67b44736e546ac001d3887d8"
+    }
+  ],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b44736e546ac001d3887de"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T08:39:18.394Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T08:39:18.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b447a2e546ac001d389ee8"
+  },
+  "customerId": {
+    "$oid": "67b446e8e546ac001d387d46"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b446e8e546ac001d387d49"
+  },
+  "customerVoucherIds": [
+    {
+      "$oid": "67b44736e546ac001d3887d8"
+    }
+  ],
+  "generatedRewards": [
+    {
+      "$oid": "67b447a2e546ac001d389ee0"
+    }
+  ],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "DISCOUNT_PERCENT",
+  "discounts": [
+    {
+      "_id": {
+        "$oid": "67b44656e546ac001d385a07"
+      },
+      "type": "PERCENT",
+      "percentOff": 50
+    }
+  ],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b447a2e546ac001d389eea"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T08:41:06.558Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T08:41:06.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b447e7e546ac001d38aa65"
+  },
+  "customerId": {
+    "$oid": "67b446e8e546ac001d387d46"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b446e8e546ac001d387d49"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [
+    {
+      "$oid": "67b447e7e546ac001d38aa60"
+    }
+  ],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b447e7e546ac001d38aa66"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T08:42:15.392Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T08:42:15.392Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b44c0ae546ac001d39f348"
+  },
+  "customerId": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b4378ee546ac001d327d22"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [
+    {
+      "$oid": "67b44c0ae546ac001d39f343"
+    }
+  ],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 600,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b44c0ae546ac001d39f349"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T08:59:54.702Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T08:59:54.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b44c48e546ac001d3a0300"
+  },
+  "customerId": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b4378ee546ac001d327d22"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 15,
+  "numberOfStamps": null,
+  "points": null,
+  "type": "VISIT",
+  "discounts": [],
+  "stamps": [],
+  "created_at": {
+    "$date": "2025-02-18T09:00:56.724Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T09:00:56.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b44c6de546ac001d3a0b67"
+  },
+  "customerId": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b4378ee546ac001d327d22"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [
+    {
+      "$oid": "67b44c6de546ac001d3a0b62"
+    }
+  ],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b44c6de546ac001d3a0b68"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T09:01:33.452Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T09:01:33.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b44cf2e546ac001d3a5ab0"
+  },
+  "customerId": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b4378ee546ac001d327d22"
+  },
+  "customerVoucherIds": [
+    {
+      "$oid": "67b43cc3e546ac001d341c8c"
+    }
+  ],
+  "generatedRewards": [
+    {
+      "$oid": "67b44cf2e546ac001d3a5aa8"
+    }
+  ],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "DISCOUNT_PERCENT",
+  "discounts": [
+    {
+      "_id": {
+        "$oid": "67b42b7ee546ac001d2def7a"
+      },
+      "type": "PERCENT",
+      "percentOff": 50
+    }
+  ],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b44cf2e546ac001d3a5ab2"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T09:03:46.928Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T09:03:46.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b45192e546ac001d3b54b6"
+  },
+  "customerId": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b42e4ce546ac001d2ee05e"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [
+    {
+      "$oid": "67b45192e546ac001d3b54b1"
+    }
+  ],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b45192e546ac001d3b54b7"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T09:23:30.123Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T09:23:30.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b451cee546ac001d3b6327"
+  },
+  "customerId": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b42e4ce546ac001d2ee05e"
+  },
+  "customerVoucherIds": [
+    {
+      "$oid": "67b45192e546ac001d3b54b1"
+    }
+  ],
+  "generatedRewards": [
+    {
+      "$oid": "67b451cee546ac001d3b631f"
+    }
+  ],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "DISCOUNT_PERCENT",
+  "discounts": [
+    {
+      "_id": {
+        "$oid": "67b44656e546ac001d385a07"
+      },
+      "type": "PERCENT",
+      "percentOff": 50
+    }
+  ],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b451cee546ac001d3b6329"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T09:24:30.511Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T09:24:30.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b453a8e546ac001d3bf02f"
+  },
+  "customerId": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b42e4ce546ac001d2ee05e"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": null,
+  "points": null,
+  "type": "VISIT",
+  "discounts": [],
+  "stamps": [],
+  "created_at": {
+    "$date": "2025-02-18T09:32:24.122Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T09:32:24.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b45423e546ac001d3c4352"
+  },
+  "customerId": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b42e4ce546ac001d2ee05e"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": null,
+  "points": null,
+  "type": "VISIT",
+  "discounts": [],
+  "stamps": [],
+  "created_at": {
+    "$date": "2025-02-18T09:34:27.242Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T09:34:27.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b45474e546ac001d3c646d"
+  },
+  "customerId": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b42e4ce546ac001d2ee05e"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b45474e546ac001d3c646e"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T09:35:48.935Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T09:35:48.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b454d5e546ac001d3c719b"
+  },
+  "customerId": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b42e4ce546ac001d2ee05e"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 60,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b454d5e546ac001d3c719c"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T09:37:25.842Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T09:37:25.842Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b45558e546ac001d3c9842"
+  },
+  "customerId": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b42e4ce546ac001d2ee05e"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [
+    {
+      "$oid": "67b45558e546ac001d3c983d"
+    }
+  ],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b45558e546ac001d3c9843"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T09:39:36.131Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T09:39:36.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b45668e546ac001d3cd876"
+  },
+  "customerId": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b42e4ce546ac001d2ee05e"
+  },
+  "customerVoucherIds": [
+    {
+      "$oid": "67b451cee546ac001d3b631f"
+    }
+  ],
+  "generatedRewards": [],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "DISCOUNT_PERCENT",
+  "discounts": [
+    {
+      "_id": {
+        "$oid": "67b44656e546ac001d385a07"
+      },
+      "type": "PERCENT",
+      "percentOff": 50
+    }
+  ],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b45668e546ac001d3cd878"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T09:44:08.852Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T09:44:08.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b456bee546ac001d3ced61"
+  },
+  "customerId": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b42e4ce546ac001d2ee05e"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b456bee546ac001d3ced62"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T09:45:34.350Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T09:45:34.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b456d8e546ac001d3d047b"
+  },
+  "customerId": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b42e4ce546ac001d2ee05e"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [
+    {
+      "$oid": "67b456d8e546ac001d3d0476"
+    }
+  ],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 2,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b456d8e546ac001d3d047c"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T09:46:00.371Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T09:46:00.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b45707e546ac001d3d0f3b"
+  },
+  "customerId": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b42e4ce546ac001d2ee05e"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 15,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b45707e546ac001d3d0f3c"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-18T09:46:47.092Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-18T09:46:47.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b5a8f490432a001dc27c86"
+  },
+  "customerId": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b42e4ce546ac001d2ee05e"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b5a8f490432a001dc27c87"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-19T09:48:36.927Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-19T09:48:36.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b5a94090432a001dc28817"
+  },
+  "customerId": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b42e4ce546ac001d2ee05e"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [
+    {
+      "$oid": "67b5a94090432a001dc28812"
+    }
+  ],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 100,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b5a94090432a001dc28818"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-19T09:49:52.129Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-19T09:49:52.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b6214a90432a001df00b0b"
+  },
+  "customerId": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b42e4ce546ac001d2ee05e"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b6214a90432a001df00b0c"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-19T18:22:02.441Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-19T18:22:02.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b6215790432a001df00d97"
+  },
+  "customerId": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b42e4ce546ac001d2ee05e"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [
+    {
+      "$oid": "67b6215790432a001df00d92"
+    }
+  ],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b6215790432a001df00d98"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-19T18:22:15.661Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-19T18:22:15.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b622ff90432a001df09f43"
+  },
+  "customerId": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b42e4ce546ac001d2ee05e"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b61fcb90432a001def6fac"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b622ff90432a001df09f44"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-19T18:29:19.247Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-19T18:29:19.247Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b623df90432a001df0f2c7"
+  },
+  "customerId": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b42e4ce546ac001d2ee05e"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [
+    {
+      "$oid": "67b623df90432a001df0f2c2"
+    }
+  ],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b61fcb90432a001def6fac"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 15,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b623df90432a001df0f2c8"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-19T18:33:03.319Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-19T18:33:03.319Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b6246590432a001df11907"
+  },
+  "customerId": {
+    "$oid": "67a0ef476a5c47001d2836c3"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b42e4ce546ac001d2ee05e"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b61fcb90432a001def6fac"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b6246590432a001df11908"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-19T18:35:17.545Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-19T18:35:17.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b625d490432a001df1a13b"
+  },
+  "customerId": {
+    "$oid": "67b6255990432a001df17162"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b6255990432a001df171ba"
+  },
+  "customerVoucherIds": [],
+  "generatedRewards": [],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b61fcb90432a001def6fac"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 15,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "STAMP_CARD",
+  "discounts": [],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b625d490432a001df1a13c"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-19T18:41:24.871Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-19T18:41:24.871Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b6d05d506a0c001d72a715"
+  },
+  "customerId": {
+    "$oid": "67b4378ee546ac001d327d1f"
+  },
+  "customerLoyaltyId": {
+    "$oid": "67b4378ee546ac001d327d22"
+  },
+  "customerVoucherIds": [
+    {
+      "$oid": "67b44c0ae546ac001d39f343"
+    }
+  ],
+  "generatedRewards": [],
+  "voucherId": null,
+  "stampCardId": null,
+  "discountAmount": 0,
+  "claimed": false,
+  "status": null,
+  "state": "FULFILLED",
+  "sourceId": null,
+  "user": {
+    "$oid": "67b1ded9635f69001d882281"
+  },
+  "businessId": {
+    "$oid": "67b1ded8635f69001d88227f"
+  },
+  "amount": 30,
+  "numberOfStamps": 1,
+  "points": null,
+  "type": "DISCOUNT_PERCENT",
+  "discounts": [
+    {
+      "_id": {
+        "$oid": "67b44656e546ac001d385a07"
+      },
+      "type": "PERCENT",
+      "percentOff": 50
+    }
+  ],
+  "stamps": [
+    {
+      "_id": {
+        "$oid": "67b6d05d506a0c001d72a717"
+      },
+      "stampId": {
+        "$oid": "67b42b7ee546ac001d2def78"
+      },
+      "numberOfStamps": 1
+    }
+  ],
+  "created_at": {
+    "$date": "2025-02-20T06:49:01.988Z"
+  },
+  "updated_at": {
+    "$date": "2025-02-20T06:49:01.988Z"
+  },
+  "__v": 0
+}]
