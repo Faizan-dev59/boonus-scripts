@@ -74,7 +74,7 @@ async function extractAndDeduplicateReachLists(campaignIds) {
 
 // Replace with the specific campaign IDs
 const campaignIds = [
-  "64be6b8553090f001ddff664",
+  "65b6a8d999959a001cd19058",
 ];
 
 extractAndDeduplicateReachLists(campaignIds);

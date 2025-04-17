@@ -4,7 +4,7 @@ require("dotenv").config();
 
 const uri = process.env.DATABASE_URI;
 const client = new MongoClient(uri);
-const BUSINESS_ID = "662e039bff2de0001ce68101";
+const BUSINESS_ID = "6329b37ab92ed5001f78993d";
 const BATCH_SIZE = 500;
 
 function buildAggregationPipeline(businessId) {
@@ -12,10 +12,10 @@ function buildAggregationPipeline(businessId) {
     {
       $match: {
         businessId: new ObjectId(businessId),
-        // created_at: {
-        //   $gte: new Date("2024-01-01T00:00:00Z"),
-        //   $lte: new Date("2024-12-31T23:59:59.999Z"),
-        // },
+        created_at: {
+          $gte: new Date("2025-01-01T00:00:00.000Z"),
+          $lte: new Date("2025-04-10T23:59:59.000Z"),
+        },
       },
     },
     {
@@ -238,7 +238,7 @@ async function main() {
     });
 
     const fileStream = fs.createWriteStream(
-      "Aqua-Tots-KSA.csv"
+      "Roaskava(Jan2025-10Apr2025).csv"
     );
     const headers = [
       "firstName",

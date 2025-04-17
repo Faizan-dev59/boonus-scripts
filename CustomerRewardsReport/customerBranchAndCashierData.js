@@ -36,7 +36,7 @@ async function processCSVFile(filePath, cashiers, branches) {
       branch = branches.find(
         (branch) => branch._id.toString() === cashier.branchId?.toString()
       );
-      console.log(branch)
+      // console.log(branch)
     customer.branch = branch
       ? { name: branch.name, arabicName: branch.arabicName }
       : null;
@@ -56,10 +56,10 @@ function writeCSVFile(data, outputFileName) {
 }
 
 async function main() {
-  const businessId = "662e039bff2de0001ce68101";
+  const businessId = "6329b37ab92ed5001f78993d";
   const inputFilePath =
-    "Aqua-Tots-KSA.csv";
-  const outputFileName = "Aqua-Tots-KSA-with-branch.csv";
+    "Roaskava(Jan2025-10Apr2025).csv";
+  const outputFileName = "Roaskava(Jan2025-10Apr2025)-with-branch.csv";
 
   try {
     await client.connect();
