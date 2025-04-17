@@ -63,5 +63,5 @@ async function extractReachList(campaignId) {
 }
 
 // Replace with the specific campaign ID
-const campaignId = "67a1bc501d4372001d1b16b8"; 
+const campaignId = "66f2bee6cbfbeb001d9dd80c"; 
 extractReachList(campaignId);

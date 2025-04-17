@@ -18,7 +18,6 @@ const checkNotificationLimit = async (
   business,
   planCollection
 ) => {
-  console.log(business?.planId);
   let availablePushNotification;
   if (business?.planId) {
     const businessPlan = await planCollection.findOne({ _id: business.planId });
@@ -116,27 +115,27 @@ async function extractCustomerLoyaltyData(campaignId, triggerValue) {
       planCollection
     );
 
-    //console.log(limitResult.customerLoyaltyList);
+    // console.log(limitResult.customerLoyaltyList);
 
-    // // //Prepare data for CSV with limited customers
-    // const data = limitResult.customerLoyaltyList.map((customer, index) => ({
-    //   index: index + 1,
-    //   customerId: customer.customerId,
-    //   lastVisit: customer.lastVisit,
-    //   businessId: customer.businessId,
-    // }));
+    // //Prepare data for CSV with limited customers
+    const data = limitResult.customerLoyaltyList.map((customer, index) => ({
+      index: index + 1,
+      customerId: customer.customerId,
+      lastVisit: customer.lastVisit,
+      businessId: customer.businessId,
+    }));
 
-    // // Define CSV fields
-    // const fields = ["index", "customerId", "lastVisit", "businessId"];
+    // Define CSV fields
+    const fields = ["index", "customerId", "lastVisit", "businessId"];
 
-    // // Convert data to CSV
-    // const json2csvParser = new Parser({ fields });
-    // const csv = json2csvParser.parse(data);
+    // Convert data to CSV
+    const json2csvParser = new Parser({ fields });
+    const csv = json2csvParser.parse(data);
 
-    // // Write CSV to file using async fs
-    // const outputFile = `test-1.csv`;
-    // await fs.writeFile(outputFile, csv);
-    // console.log(`Customer loyalty data successfully written to ${outputFile}`);
+    // Write CSV to file using async fs
+    const outputFile = `test-2.csv`;
+    await fs.writeFile(outputFile, csv);
+    console.log(`Customer loyalty data successfully written to ${outputFile}`);
   } catch (error) {
     console.error("Error while extracting customer loyalty data:", error);
   } finally {
@@ -145,6 +144,6 @@ async function extractCustomerLoyaltyData(campaignId, triggerValue) {
 }
 
 // Replace with the specific campaign ID and trigger value (days)
-const campaignId = "6741c80c28d5f6001d4736d2"; // Provided campaign ID
+const campaignId = "67f2632ca95164001d4d5b8b"; // Provided campaign ID
 const triggerValue = "10"; // Number of days ago
 extractCustomerLoyaltyData(campaignId, triggerValue);

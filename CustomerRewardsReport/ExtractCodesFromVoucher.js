@@ -7,8 +7,8 @@ const uri = process.env.DATABASE_URI;
 const dbName = "boonus";
 const collectionName = "customervouchers";
 
-const start = new Date("2024-11-01T00:00:00.000Z");
-const end = new Date("2025-01-07T23:59:59.000Z");
+const start = new Date("2025-02-01T00:00:00.000Z");
+const end = new Date("2025-04-15T23:59:59.000Z");
 
 async function extractData() {
   const client = new MongoClient(uri);
@@ -22,12 +22,12 @@ async function extractData() {
     
     // Define the query to match the vouchers
     const query = {
-      businessId: new ObjectId("64f6d04f64a384001d7362f6"),
+      businessId: new ObjectId("66eeba6fc4fe66001dca5798"),
       updated_at: {
         $gte: start,
         $lte: end,
       },
-      campaignId: new ObjectId("659fb52f99959a001c6657a1"),
+      campaignId: new ObjectId("66f2bee6cbfbeb001d9dd80c"),
     };
 
     // Perform aggregation with $lookup to join customer collection based on owner id
@@ -150,7 +150,7 @@ async function extractData() {
     const csv = json2csvParser.parse(data);
 
     // Write CSV to file using async fs
-    const outputFile = 'Bocca Di Cafe-Rewards-Details-Of-Customers(01-Nov-24-to-07-Jan-25)-birthday.csv';
+    const outputFile = 'ANNECY-(01-Feb-25-to-15-Apr-25)-birthday.csv';
     await fs.writeFile(outputFile, csv);
     console.log(`Data successfully written to ${outputFile}`);
   } catch (error) {
